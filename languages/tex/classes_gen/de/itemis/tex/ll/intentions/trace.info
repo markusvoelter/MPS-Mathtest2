@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="18" endPosition="0" unitName="de.itemis.tex.ll.intentions.IntentionsDescriptor" />
+  <root nodeId="2194098664609132895">
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609141357" fileName="addCommand_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609145189" fileName="addCommand_Intention.java" startLine="37" startPosition="76" endLine="38" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2194098664609141359" fileName="addCommand_Intention.java" startLine="38" startPosition="102" endLine="39" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609144798" fileName="addCommand_Intention.java" startLine="39" startPosition="96" endLine="40" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="43" startPosition="37" endLine="44" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="13" startPosition="78" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="addCommand_Intention#()V" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="36" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="14" startPosition="33" endLine="14" endPosition="33" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="50" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" />
+    <scopeInfo nodeId="2194098664609132897" fileName="addCommand_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="35" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="43" startPosition="37" endLine="44" endPosition="41" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="13" startPosition="78" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="2194098664609132899" fileName="addCommand_Intention.java" startLine="37" startPosition="76" endLine="40" endPosition="30">
+      <varInfo nodeId="2194098664609145190" varName="cmd" />
+    </scopeInfo>
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" />
+    <scopeInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="36" startPosition="0" endLine="42" endPosition="0" />
+    <unitInfo nodeId="2194098664609132895" fileName="addCommand_Intention.java" startLine="13" startPosition="0" endLine="47" endPosition="0" unitName="de.itemis.tex.ll.intentions.addCommand_Intention" />
+  </root>
+</debugInfo>
+

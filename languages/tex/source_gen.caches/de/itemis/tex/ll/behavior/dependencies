@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="de.itemis.tex.ll.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexContainerDirective_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexGroup_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexHeaderCommand_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexHeader_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexNewLine_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexResource_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexSimpleDirWithText_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexSimpleDirective_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TextMultiDirective_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TextMultiElement_BehaviorDescriptor" />
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TextOnlyDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexContainerDirective_Behavior" file="TexContainerDirective_Behavior.java">
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations" />
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations" />
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexContainerDirective_BehaviorDescriptor" file="TexContainerDirective_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexDirective_BehaviorDescriptor" file="TexDirective_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexGroup_BehaviorDescriptor" file="TexGroup_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexHeaderAttribute_BehaviorDescriptor" file="TexHeaderAttribute_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexHeaderCommand_BehaviorDescriptor" file="TexHeaderCommand_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexHeaderAttribute_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexHeader_BehaviorDescriptor" file="TexHeader_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexNewLine_BehaviorDescriptor" file="TexNewLine_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexResource_BehaviorDescriptor" file="TexResource_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexSimpleDirWithText_BehaviorDescriptor" file="TexSimpleDirWithText_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexSimpleDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TexSimpleDirective_BehaviorDescriptor" file="TexSimpleDirective_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TextMultiDirective_BehaviorDescriptor" file="TextMultiDirective_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TextMultiElement_BehaviorDescriptor" file="TextMultiElement_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.itemis.tex.ll.behavior.TextOnlyDirective_BehaviorDescriptor" file="TextOnlyDirective_BehaviorDescriptor.java">
+    <classNode dependClassName="de.itemis.tex.ll.behavior.TexDirective_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="de.itemis.tex.ll.constraints.ConstraintsAspectDescriptor" />
+  <root nodeId="2194098664609102382">
+    <nodeInfo nodeId="2194098664609102382" fileName="TexContainerDirective_Constraints.java" startLine="8" startPosition="46" endLine="9" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609102382" fileName="TexContainerDirective_Constraints.java" startLine="7" startPosition="82" endLine="10" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexContainerDirective_Constraints#()V" />
+    <scopeInfo nodeId="2194098664609102382" fileName="TexContainerDirective_Constraints.java" startLine="8" startPosition="46" endLine="9" endPosition="62" />
+    <scopeInfo nodeId="2194098664609102382" fileName="TexContainerDirective_Constraints.java" startLine="7" startPosition="82" endLine="10" endPosition="3" />
+    <unitInfo nodeId="2194098664609102382" fileName="TexContainerDirective_Constraints.java" startLine="7" startPosition="0" endLine="12" endPosition="0" unitName="de.itemis.tex.ll.constraints.TexContainerDirective_Constraints" />
+  </root>
+</debugInfo>
+

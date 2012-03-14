@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Math_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="sr.math.structure.Math_Language" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="29" endPosition="0" unitName="sr.math.structure.StructureAspectDescriptor" />
+  <root nodeId="7691223970093052526">
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="12" startPosition="41" endLine="13" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="13" startPosition="63" endLine="14" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="EXP" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="14" startPosition="41" endLine="15" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="BASE" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="17" startPosition="26" endLine="18" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="21" startPosition="35" endLine="22" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="25" startPosition="44" endLine="26" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="29" startPosition="31" endLine="30" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="33" startPosition="40" endLine="34" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="37" startPosition="58" endLine="38" endPosition="137" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="41" startPosition="44" endLine="42" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="16" startPosition="0" endLine="19" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Exp#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getExp#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setExp#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getBase#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setBase#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lsr/math/structure/Exp;" />
+    <nodeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="40" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lsr/math/structure/Exp;" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="17" startPosition="26" endLine="18" endPosition="16" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="21" startPosition="35" endLine="22" endPosition="75" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="25" startPosition="44" endLine="26" endPosition="34" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="29" startPosition="31" endLine="30" endPosition="66" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="33" startPosition="40" endLine="34" endPosition="35" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="37" startPosition="58" endLine="38" endPosition="137" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="41" startPosition="44" endLine="42" endPosition="38" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="16" startPosition="0" endLine="19" endPosition="3" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="40" startPosition="0" endLine="44" endPosition="0" />
+    <unitInfo nodeId="7691223970093052526" fileName="Exp.java" startLine="12" startPosition="0" endLine="45" endPosition="0" unitName="sr.math.structure.Exp" />
+  </root>
+  <root nodeId="7691223970093052530">
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="11" startPosition="41" endLine="12" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="12" startPosition="63" endLine="13" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="EXPR" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="15" startPosition="26" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="19" startPosition="31" endLine="20" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="23" startPosition="40" endLine="24" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="27" startPosition="58" endLine="28" endPosition="137" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="31" startPosition="44" endLine="32" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="14" startPosition="0" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Abs#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getExpr#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setExpr#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lsr/math/structure/Abs;" />
+    <nodeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lsr/math/structure/Abs;" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="15" startPosition="26" endLine="16" endPosition="16" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="19" startPosition="31" endLine="20" endPosition="66" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="23" startPosition="40" endLine="24" endPosition="35" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="27" startPosition="58" endLine="28" endPosition="137" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="31" startPosition="44" endLine="32" endPosition="38" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="14" startPosition="0" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <unitInfo nodeId="7691223970093052530" fileName="Abs.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="sr.math.structure.Abs" />
+  </root>
+  <root nodeId="7691223970093053313">
+    <nodeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="11" startPosition="48" endLine="12" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="14" startPosition="37" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="18" startPosition="69" endLine="19" endPosition="159" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="22" startPosition="55" endLine="23" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="MathExpression#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lsr/math/structure/MathExpression;" />
+    <nodeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lsr/math/structure/MathExpression;" />
+    <scopeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="14" startPosition="37" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="18" startPosition="69" endLine="19" endPosition="159" />
+    <scopeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="22" startPosition="55" endLine="23" endPosition="49" />
+    <scopeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <unitInfo nodeId="7691223970093053313" fileName="MathExpression.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="sr.math.structure.MathExpression" />
+  </root>
+</debugInfo>
+

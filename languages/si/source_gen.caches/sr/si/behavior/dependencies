@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="sr.si.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode dependClassName="sr.si.behavior.CompositeUnitFraction_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.CompositeUnit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.ForceUnit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.Hecto_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.KiloGramm_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.Kilo_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.Meter_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.Newton_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.NoUnit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.Pascal_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.PressureUnit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.Second_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.CompositeUnitFraction_Behavior" file="CompositeUnitFraction_Behavior.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.StringBuffer" />
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode dependClassName="sr.si.behavior.Unit_Behavior" />
+    <classNode dependClassName="sr.si.rt.InternalCompositeUnit" />
+  </dependency>
+  <dependency className="sr.si.behavior.CompositeUnitFraction_BehaviorDescriptor" file="CompositeUnitFraction_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode dependClassName="sr.si.behavior.CompositeUnitFraction_Behavior" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.rt.InternalCompositeUnit" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.CompositeUnit_Behavior" file="CompositeUnit_Behavior.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.StringBuffer" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.IVisitor" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode dependClassName="sr.si.behavior.Unit_Behavior" />
+    <classNode dependClassName="sr.si.rt.InternalCompositeUnit" />
+  </dependency>
+  <dependency className="sr.si.behavior.CompositeUnit_BehaviorDescriptor" file="CompositeUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode dependClassName="sr.si.behavior.CompositeUnit_Behavior" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.rt.InternalCompositeUnit" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Factor_BehaviorDescriptor" file="Factor_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.ForceUnit_BehaviorDescriptor" file="ForceUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Hecto_BehaviorDescriptor" file="Hecto_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Factor_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.IReducableUnit_BehaviorDescriptor" file="IReducableUnit_BehaviorDescriptor.java" />
+  <dependency className="sr.si.behavior.KiloGramm_BehaviorDescriptor" file="KiloGramm_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.WeightUnit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Kilo_BehaviorDescriptor" file="Kilo_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Factor_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.LengthUnit_BehaviorDescriptor" file="LengthUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Meter_BehaviorDescriptor" file="Meter_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.LengthUnit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Newton_BehaviorDescriptor" file="Newton_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.ForceUnit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.IReducableUnit_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.NoUnit_BehaviorDescriptor" file="NoUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Pascal_BehaviorDescriptor" file="Pascal_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.IReducableUnit_BehaviorDescriptor" />
+    <classNode dependClassName="sr.si.behavior.PressureUnit_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.PressureUnit_BehaviorDescriptor" file="PressureUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Second_BehaviorDescriptor" file="Second_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.TimeUnit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.TimeUnit_BehaviorDescriptor" file="TimeUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.Unit_Behavior" file="Unit_Behavior.java">
+    <classNode dependClassName="java.lang.Class" />
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations" />
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations" />
+    <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode dependClassName="jetbrains.mps.smodel.behaviour.BehaviorManager" />
+    <classNode dependClassName="jetbrains.mps.smodel.structure.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.structure.ConceptRegistry" />
+    <classNode dependClassName="sr.si.rt.InternalCompositeUnit" />
+  </dependency>
+  <dependency className="sr.si.behavior.Unit_BehaviorDescriptor" file="Unit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode dependClassName="sr.si.behavior.Unit_Behavior" />
+    <classNode dependClassName="sr.si.rt.InternalCompositeUnit" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="sr.si.behavior.WeightUnit_BehaviorDescriptor" file="WeightUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="sr.si.behavior.Unit_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

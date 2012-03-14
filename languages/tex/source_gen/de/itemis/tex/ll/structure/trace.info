@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Ll_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="de.itemis.tex.ll.structure.Ll_Language" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="49" endPosition="0" unitName="de.itemis.tex.ll.structure.StructureAspectDescriptor" />
+  <root nodeId="2194098664609021071">
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="15" startPosition="71" endLine="16" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="16" startPosition="80" endLine="17" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="NAME" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="17" startPosition="43" endLine="18" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SHORT_DESCRIPTION" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="18" startPosition="68" endLine="19" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ALIAS" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="19" startPosition="45" endLine="20" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VIRTUAL_PACKAGE" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="20" startPosition="64" endLine="21" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="DIRECTIVES" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="21" startPosition="55" endLine="22" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SMODEL_ATTRIBUTE" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="24" startPosition="34" endLine="25" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="28" startPosition="27" endLine="29" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="32" startPosition="37" endLine="33" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="36" startPosition="39" endLine="37" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="40" startPosition="49" endLine="41" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="44" startPosition="28" endLine="45" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="48" startPosition="38" endLine="49" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="52" startPosition="37" endLine="53" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="56" startPosition="47" endLine="57" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="60" startPosition="37" endLine="61" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="64" startPosition="48" endLine="65" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="68" startPosition="47" endLine="69" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="72" startPosition="48" endLine="73" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="76" startPosition="70" endLine="77" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="80" startPosition="41" endLine="81" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="84" startPosition="49" endLine="85" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="88" startPosition="48" endLine="89" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="92" startPosition="50" endLine="93" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="96" startPosition="69" endLine="97" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="100" startPosition="66" endLine="101" endPosition="162" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="104" startPosition="52" endLine="105" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="23" startPosition="0" endLine="26" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexResource#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getShortDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setShortDescription#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getVirtualPackage#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="55" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setVirtualPackage#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="59" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDirectivesesCount#()I" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="63" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="directiveses#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="67" startPosition="0" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDirectiveses#()Ljava/util/List;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="71" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addDirectives#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="75" startPosition="0" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertDirectives#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="79" startPosition="0" endLine="83" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributesCount#()I" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="83" startPosition="0" endLine="87" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="smodelAttributes#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="87" startPosition="0" endLine="91" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributes#()Ljava/util/List;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="91" startPosition="0" endLine="95" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="95" startPosition="0" endLine="99" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="99" startPosition="0" endLine="103" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexResource;" />
+    <nodeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="103" startPosition="0" endLine="107" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexResource;" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="24" startPosition="34" endLine="25" endPosition="16" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="28" startPosition="27" endLine="29" endPosition="46" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="32" startPosition="37" endLine="33" endPosition="46" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="36" startPosition="39" endLine="37" endPosition="59" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="40" startPosition="49" endLine="41" endPosition="59" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="44" startPosition="28" endLine="45" endPosition="47" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="48" startPosition="38" endLine="49" endPosition="47" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="52" startPosition="37" endLine="53" endPosition="57" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="56" startPosition="47" endLine="57" endPosition="57" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="60" startPosition="37" endLine="61" endPosition="54" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="64" startPosition="48" endLine="65" endPosition="69" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="68" startPosition="47" endLine="69" endPosition="72" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="72" startPosition="48" endLine="73" endPosition="48" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="76" startPosition="70" endLine="77" endPosition="57" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="80" startPosition="41" endLine="81" endPosition="60" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="84" startPosition="49" endLine="85" endPosition="72" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="88" startPosition="48" endLine="89" endPosition="75" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="92" startPosition="50" endLine="93" endPosition="54" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="96" startPosition="69" endLine="97" endPosition="63" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="100" startPosition="66" endLine="101" endPosition="162" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="104" startPosition="52" endLine="105" endPosition="46" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="23" startPosition="0" endLine="26" endPosition="3" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="51" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="55" startPosition="0" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="59" startPosition="0" endLine="63" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="63" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="67" startPosition="0" endLine="71" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="71" startPosition="0" endLine="75" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="75" startPosition="0" endLine="79" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="79" startPosition="0" endLine="83" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="83" startPosition="0" endLine="87" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="87" startPosition="0" endLine="91" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="91" startPosition="0" endLine="95" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="95" startPosition="0" endLine="99" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="99" startPosition="0" endLine="103" endPosition="0" />
+    <scopeInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="103" startPosition="0" endLine="107" endPosition="0" />
+    <unitInfo nodeId="2194098664609021071" fileName="TexResource.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="de.itemis.tex.ll.structure.TexResource" />
+  </root>
+  <root nodeId="2194098664609034089">
+    <nodeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="11" startPosition="47" endLine="12" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="14" startPosition="35" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="18" startPosition="67" endLine="19" endPosition="164" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="22" startPosition="53" endLine="23" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexDirective#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexDirective;" />
+    <nodeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexDirective;" />
+    <scopeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="14" startPosition="35" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="18" startPosition="67" endLine="19" endPosition="164" />
+    <scopeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="22" startPosition="53" endLine="23" endPosition="47" />
+    <scopeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <unitInfo nodeId="2194098664609034089" fileName="TexDirective.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.itemis.tex.ll.structure.TexDirective" />
+  </root>
+  <root nodeId="2194098664609034091">
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="10" startPosition="54" endLine="11" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="11" startPosition="87" endLine="12" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="HEADER" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="14" startPosition="41" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="18" startPosition="32" endLine="19" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="22" startPosition="41" endLine="23" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="26" startPosition="73" endLine="27" endPosition="176" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="30" startPosition="59" endLine="31" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexSimpleDirective#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getHeader#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setHeader#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexSimpleDirective;" />
+    <nodeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexSimpleDirective;" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="14" startPosition="41" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="18" startPosition="32" endLine="19" endPosition="81" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="22" startPosition="41" endLine="23" endPosition="52" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="26" startPosition="73" endLine="27" endPosition="176" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="30" startPosition="59" endLine="31" endPosition="53" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <unitInfo nodeId="2194098664609034091" fileName="TexSimpleDirective.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.itemis.tex.ll.structure.TexSimpleDirective" />
+  </root>
+  <root nodeId="2194098664609034093">
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="10" startPosition="62" endLine="11" endPosition="89" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="11" startPosition="89" endLine="12" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TEXT" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="14" startPosition="43" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="18" startPosition="27" endLine="19" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="22" startPosition="37" endLine="23" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="26" startPosition="75" endLine="27" endPosition="180" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="30" startPosition="61" endLine="31" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexSimpleDirWithText#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getText#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setText#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexSimpleDirWithText;" />
+    <nodeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexSimpleDirWithText;" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="14" startPosition="43" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="18" startPosition="27" endLine="19" endPosition="55" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="22" startPosition="37" endLine="23" endPosition="55" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="26" startPosition="75" endLine="27" endPosition="180" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="30" startPosition="61" endLine="31" endPosition="55" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <unitInfo nodeId="2194098664609034093" fileName="TexSimpleDirWithText.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.itemis.tex.ll.structure.TexSimpleDirWithText" />
+  </root>
+  <root nodeId="2194098664609034095">
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="12" startPosition="57" endLine="13" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="13" startPosition="90" endLine="14" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="OPENING" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="14" startPosition="49" endLine="15" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="CLOSING" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="15" startPosition="49" endLine="16" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="CHILDREN" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="18" startPosition="44" endLine="19" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="22" startPosition="33" endLine="23" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="26" startPosition="42" endLine="27" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="30" startPosition="33" endLine="31" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="34" startPosition="42" endLine="35" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="38" startPosition="34" endLine="39" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="42" startPosition="45" endLine="43" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="46" startPosition="44" endLine="47" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="50" startPosition="46" endLine="51" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="54" startPosition="68" endLine="55" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="58" startPosition="76" endLine="59" endPosition="182" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="62" startPosition="62" endLine="63" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="17" startPosition="0" endLine="20" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexContainerDirective#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getOpening#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setOpening#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getClosing#()Ljetbrains/mps/smodel/INodeAdapter;" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setClosing#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="37" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getChildrensCount#()I" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="41" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="childrens#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="45" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getChildrens#()Ljava/util/List;" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="49" startPosition="0" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addChildren#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="53" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertChildren#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="57" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexContainerDirective;" />
+    <nodeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="61" startPosition="0" endLine="65" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexContainerDirective;" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="18" startPosition="44" endLine="19" endPosition="16" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="22" startPosition="33" endLine="23" endPosition="85" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="26" startPosition="42" endLine="27" endPosition="56" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="30" startPosition="33" endLine="31" endPosition="85" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="34" startPosition="42" endLine="35" endPosition="56" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="38" startPosition="34" endLine="39" endPosition="62" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="42" startPosition="45" endLine="43" endPosition="77" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="46" startPosition="44" endLine="47" endPosition="80" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="50" startPosition="46" endLine="51" endPosition="56" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="54" startPosition="68" endLine="55" endPosition="65" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="58" startPosition="76" endLine="59" endPosition="182" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="62" startPosition="62" endLine="63" endPosition="56" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="17" startPosition="0" endLine="20" endPosition="3" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="37" startPosition="0" endLine="41" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="41" startPosition="0" endLine="45" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="45" startPosition="0" endLine="49" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="49" startPosition="0" endLine="53" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="53" startPosition="0" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="57" startPosition="0" endLine="61" endPosition="0" />
+    <scopeInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="61" startPosition="0" endLine="65" endPosition="0" />
+    <unitInfo nodeId="2194098664609034095" fileName="TexContainerDirective.java" startLine="12" startPosition="0" endLine="66" endPosition="0" unitName="de.itemis.tex.ll.structure.TexContainerDirective" />
+  </root>
+  <root nodeId="2194098664609068492">
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="15" startPosition="69" endLine="16" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="16" startPosition="78" endLine="17" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="NAME" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="17" startPosition="43" endLine="18" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SHORT_DESCRIPTION" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="18" startPosition="68" endLine="19" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ALIAS" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="19" startPosition="45" endLine="20" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VIRTUAL_PACKAGE" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="20" startPosition="64" endLine="21" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ATTRIBUTES" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="21" startPosition="55" endLine="22" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SMODEL_ATTRIBUTE" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="24" startPosition="32" endLine="25" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="28" startPosition="27" endLine="29" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="32" startPosition="37" endLine="33" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="36" startPosition="39" endLine="37" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="40" startPosition="49" endLine="41" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="44" startPosition="28" endLine="45" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="48" startPosition="38" endLine="49" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="52" startPosition="37" endLine="53" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="56" startPosition="47" endLine="57" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="60" startPosition="37" endLine="61" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="64" startPosition="54" endLine="65" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="68" startPosition="53" endLine="69" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="72" startPosition="54" endLine="73" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="76" startPosition="82" endLine="77" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="80" startPosition="41" endLine="81" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="84" startPosition="49" endLine="85" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="88" startPosition="48" endLine="89" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="92" startPosition="50" endLine="93" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="96" startPosition="69" endLine="97" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="100" startPosition="64" endLine="101" endPosition="158" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="104" startPosition="50" endLine="105" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="23" startPosition="0" endLine="26" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexHeader#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getShortDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setShortDescription#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getVirtualPackage#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="55" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setVirtualPackage#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="59" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAttributesesCount#()I" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="63" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="attributeses#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="67" startPosition="0" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAttributeses#()Ljava/util/List;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="71" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addAttributes#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="75" startPosition="0" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertAttributes#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="79" startPosition="0" endLine="83" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributesCount#()I" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="83" startPosition="0" endLine="87" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="smodelAttributes#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="87" startPosition="0" endLine="91" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributes#()Ljava/util/List;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="91" startPosition="0" endLine="95" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="95" startPosition="0" endLine="99" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="99" startPosition="0" endLine="103" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexHeader;" />
+    <nodeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="103" startPosition="0" endLine="107" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexHeader;" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="24" startPosition="32" endLine="25" endPosition="16" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="28" startPosition="27" endLine="29" endPosition="44" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="32" startPosition="37" endLine="33" endPosition="44" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="36" startPosition="39" endLine="37" endPosition="57" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="40" startPosition="49" endLine="41" endPosition="57" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="44" startPosition="28" endLine="45" endPosition="45" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="48" startPosition="38" endLine="49" endPosition="45" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="52" startPosition="37" endLine="53" endPosition="55" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="56" startPosition="47" endLine="57" endPosition="55" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="60" startPosition="37" endLine="61" endPosition="52" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="64" startPosition="54" endLine="65" endPosition="73" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="68" startPosition="53" endLine="69" endPosition="76" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="72" startPosition="54" endLine="73" endPosition="46" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="76" startPosition="82" endLine="77" endPosition="55" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="80" startPosition="41" endLine="81" endPosition="58" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="84" startPosition="49" endLine="85" endPosition="70" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="88" startPosition="48" endLine="89" endPosition="73" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="92" startPosition="50" endLine="93" endPosition="52" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="96" startPosition="69" endLine="97" endPosition="61" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="100" startPosition="64" endLine="101" endPosition="158" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="104" startPosition="50" endLine="105" endPosition="44" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="23" startPosition="0" endLine="26" endPosition="3" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="51" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="55" startPosition="0" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="59" startPosition="0" endLine="63" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="63" startPosition="0" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="67" startPosition="0" endLine="71" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="71" startPosition="0" endLine="75" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="75" startPosition="0" endLine="79" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="79" startPosition="0" endLine="83" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="83" startPosition="0" endLine="87" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="87" startPosition="0" endLine="91" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="91" startPosition="0" endLine="95" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="95" startPosition="0" endLine="99" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="99" startPosition="0" endLine="103" endPosition="0" />
+    <scopeInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="103" startPosition="0" endLine="107" endPosition="0" />
+    <unitInfo nodeId="2194098664609068492" fileName="TexHeader.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="de.itemis.tex.ll.structure.TexHeader" />
+  </root>
+  <root nodeId="2194098664609070858">
+    <nodeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="11" startPosition="53" endLine="12" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="14" startPosition="41" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="18" startPosition="73" endLine="19" endPosition="176" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="22" startPosition="59" endLine="23" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexHeaderAttribute#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexHeaderAttribute;" />
+    <nodeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexHeaderAttribute;" />
+    <scopeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="14" startPosition="41" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="18" startPosition="73" endLine="19" endPosition="176" />
+    <scopeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="22" startPosition="59" endLine="23" endPosition="53" />
+    <scopeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <unitInfo nodeId="2194098664609070858" fileName="TexHeaderAttribute.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.itemis.tex.ll.structure.TexHeaderAttribute" />
+  </root>
+  <root nodeId="2194098664609070869">
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="14" startPosition="83" endLine="15" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="15" startPosition="85" endLine="16" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="NAME" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="16" startPosition="43" endLine="17" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SHORT_DESCRIPTION" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="17" startPosition="68" endLine="18" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ALIAS" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="18" startPosition="45" endLine="19" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="VIRTUAL_PACKAGE" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="19" startPosition="64" endLine="20" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="SMODEL_ATTRIBUTE" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="22" startPosition="39" endLine="23" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="26" startPosition="27" endLine="27" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="30" startPosition="37" endLine="31" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="34" startPosition="39" endLine="35" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="38" startPosition="49" endLine="39" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="42" startPosition="28" endLine="43" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="46" startPosition="38" endLine="47" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="50" startPosition="37" endLine="51" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="54" startPosition="47" endLine="55" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="58" startPosition="41" endLine="59" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="62" startPosition="49" endLine="63" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="66" startPosition="48" endLine="67" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="70" startPosition="50" endLine="71" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="74" startPosition="69" endLine="75" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="78" startPosition="71" endLine="79" endPosition="172" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="82" startPosition="57" endLine="83" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="21" startPosition="0" endLine="24" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexHeaderCommand#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setName#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getShortDescription#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="37" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setShortDescription#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="41" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAlias#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="45" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAlias#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="49" startPosition="0" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getVirtualPackage#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="53" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setVirtualPackage#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="57" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributesCount#()I" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="61" startPosition="0" endLine="65" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="smodelAttributes#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="65" startPosition="0" endLine="69" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSmodelAttributes#()Ljava/util/List;" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="69" startPosition="0" endLine="73" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="73" startPosition="0" endLine="77" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertSmodelAttribute#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="77" startPosition="0" endLine="81" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexHeaderCommand;" />
+    <nodeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="81" startPosition="0" endLine="85" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexHeaderCommand;" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="22" startPosition="39" endLine="23" endPosition="16" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="26" startPosition="27" endLine="27" endPosition="51" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="30" startPosition="37" endLine="31" endPosition="51" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="34" startPosition="39" endLine="35" endPosition="64" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="38" startPosition="49" endLine="39" endPosition="64" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="42" startPosition="28" endLine="43" endPosition="52" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="46" startPosition="38" endLine="47" endPosition="52" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="50" startPosition="37" endLine="51" endPosition="62" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="54" startPosition="47" endLine="55" endPosition="62" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="58" startPosition="41" endLine="59" endPosition="65" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="62" startPosition="49" endLine="63" endPosition="77" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="66" startPosition="48" endLine="67" endPosition="80" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="70" startPosition="50" endLine="71" endPosition="59" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="74" startPosition="69" endLine="75" endPosition="68" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="78" startPosition="71" endLine="79" endPosition="172" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="82" startPosition="57" endLine="83" endPosition="51" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="21" startPosition="0" endLine="24" endPosition="3" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="37" startPosition="0" endLine="41" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="41" startPosition="0" endLine="45" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="45" startPosition="0" endLine="49" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="49" startPosition="0" endLine="53" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="53" startPosition="0" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="57" startPosition="0" endLine="61" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="61" startPosition="0" endLine="65" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="65" startPosition="0" endLine="69" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="69" startPosition="0" endLine="73" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="73" startPosition="0" endLine="77" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="77" startPosition="0" endLine="81" endPosition="0" />
+    <scopeInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="81" startPosition="0" endLine="85" endPosition="0" />
+    <unitInfo nodeId="2194098664609070869" fileName="TexHeaderCommand.java" startLine="14" startPosition="0" endLine="86" endPosition="0" unitName="de.itemis.tex.ll.structure.TexHeaderCommand" />
+  </root>
+  <root nodeId="2194098664609126215">
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="10" startPosition="53" endLine="11" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="11" startPosition="86" endLine="12" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TEXT" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="14" startPosition="40" endLine="15" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="18" startPosition="27" endLine="19" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="22" startPosition="37" endLine="23" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="26" startPosition="72" endLine="27" endPosition="174" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="30" startPosition="58" endLine="31" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="13" startPosition="0" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TextOnlyDirective#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getText#()Ljava/lang/String;" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setText#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TextOnlyDirective;" />
+    <nodeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TextOnlyDirective;" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="14" startPosition="40" endLine="15" endPosition="16" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="18" startPosition="27" endLine="19" endPosition="52" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="22" startPosition="37" endLine="23" endPosition="52" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="26" startPosition="72" endLine="27" endPosition="174" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="30" startPosition="58" endLine="31" endPosition="52" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="13" startPosition="0" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <unitInfo nodeId="2194098664609126215" fileName="TextOnlyDirective.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.itemis.tex.ll.structure.TextOnlyDirective" />
+  </root>
+  <root nodeId="4689918572531027898">
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="12" startPosition="54" endLine="13" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="13" startPosition="87" endLine="14" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="ELEMENTS" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="16" startPosition="41" endLine="17" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="20" startPosition="35" endLine="21" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="24" startPosition="50" endLine="25" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="28" startPosition="49" endLine="29" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="32" startPosition="50" endLine="33" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="36" startPosition="76" endLine="37" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="40" startPosition="73" endLine="41" endPosition="176" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="44" startPosition="59" endLine="45" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="15" startPosition="0" endLine="18" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TextMultiDirective#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="19" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getElementsesCount#()I" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="elementses#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getElementses#()Ljava/util/List;" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addElements#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertElements#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TextMultiDirective;" />
+    <nodeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TextMultiDirective;" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="16" startPosition="41" endLine="17" endPosition="16" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="20" startPosition="35" endLine="21" endPosition="59" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="24" startPosition="50" endLine="25" endPosition="78" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="28" startPosition="49" endLine="29" endPosition="81" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="32" startPosition="50" endLine="33" endPosition="53" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="36" startPosition="76" endLine="37" endPosition="62" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="40" startPosition="73" endLine="41" endPosition="176" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="44" startPosition="59" endLine="45" endPosition="53" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="15" startPosition="0" endLine="18" endPosition="3" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="19" startPosition="0" endLine="23" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <unitInfo nodeId="4689918572531027898" fileName="TextMultiDirective.java" startLine="12" startPosition="0" endLine="48" endPosition="0" unitName="de.itemis.tex.ll.structure.TextMultiDirective" />
+  </root>
+  <root nodeId="4689918572531027899">
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="11" startPosition="51" endLine="12" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="12" startPosition="85" endLine="13" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="TEXT" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="15" startPosition="39" endLine="16" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="19" startPosition="27" endLine="20" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="23" startPosition="37" endLine="24" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="27" startPosition="71" endLine="28" endPosition="172" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="31" startPosition="57" endLine="32" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="14" startPosition="0" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TextMultiElement#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getText#()Ljava/lang/String;" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setText#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TextMultiElement;" />
+    <nodeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TextMultiElement;" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="15" startPosition="39" endLine="16" endPosition="16" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="19" startPosition="27" endLine="20" endPosition="51" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="23" startPosition="37" endLine="24" endPosition="51" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="27" startPosition="71" endLine="28" endPosition="172" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="31" startPosition="57" endLine="32" endPosition="51" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="14" startPosition="0" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <unitInfo nodeId="4689918572531027899" fileName="TextMultiElement.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="de.itemis.tex.ll.structure.TextMultiElement" />
+  </root>
+  <root nodeId="6490254263633846679">
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="12" startPosition="44" endLine="13" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="13" startPosition="77" endLine="14" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="CHILDREN" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="16" startPosition="31" endLine="17" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="20" startPosition="34" endLine="21" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="24" startPosition="45" endLine="25" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="28" startPosition="44" endLine="29" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="32" startPosition="46" endLine="33" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="36" startPosition="68" endLine="37" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="40" startPosition="63" endLine="41" endPosition="156" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="44" startPosition="49" endLine="45" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="15" startPosition="0" endLine="18" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexGroup#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="19" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getChildrensCount#()I" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="childrens#()Ljava/util/Iterator;" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getChildrens#()Ljava/util/List;" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addChildren#(Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertChildren#(Ljetbrains/mps/smodel/INodeAdapter;Ljetbrains/mps/smodel/INodeAdapter;)V" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexGroup;" />
+    <nodeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexGroup;" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="16" startPosition="31" endLine="17" endPosition="16" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="20" startPosition="34" endLine="21" endPosition="49" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="24" startPosition="45" endLine="25" endPosition="64" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="28" startPosition="44" endLine="29" endPosition="67" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="32" startPosition="46" endLine="33" endPosition="43" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="36" startPosition="68" endLine="37" endPosition="52" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="40" startPosition="63" endLine="41" endPosition="156" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="44" startPosition="49" endLine="45" endPosition="43" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="15" startPosition="0" endLine="18" endPosition="3" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="19" startPosition="0" endLine="23" endPosition="0" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <unitInfo nodeId="6490254263633846679" fileName="TexGroup.java" startLine="12" startPosition="0" endLine="48" endPosition="0" unitName="de.itemis.tex.ll.structure.TexGroup" />
+  </root>
+  <root nodeId="6490254263633863550">
+    <nodeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="10" startPosition="46" endLine="11" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="13" startPosition="33" endLine="14" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="17" startPosition="65" endLine="18" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="21" startPosition="51" endLine="22" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="12" startPosition="0" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TexNewLine#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;Z)Lde/itemis/tex/ll/structure/TexNewLine;" />
+    <nodeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="newInstance#(Ljetbrains/mps/smodel/SModel;)Lde/itemis/tex/ll/structure/TexNewLine;" />
+    <scopeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="13" startPosition="33" endLine="14" endPosition="16" />
+    <scopeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="17" startPosition="65" endLine="18" endPosition="160" />
+    <scopeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="21" startPosition="51" endLine="22" endPosition="45" />
+    <scopeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="12" startPosition="0" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <unitInfo nodeId="6490254263633863550" fileName="TexNewLine.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.itemis.tex.ll.structure.TexNewLine" />
+  </root>
+</debugInfo>
+

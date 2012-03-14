@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="${project}/languages/dispatch/dispatch.mpl" folder="util" />
+      <modulePath path="${project}/languages/functionblocks/functionblocks.mpl" folder="languages.sr" />
+      <modulePath path="${project}/languages/math/math.mpl" folder="languages.sr" />
+      <modulePath path="${project}/languages/si/si.mpl" folder="languages.sr" />
+      <modulePath path="${project}/languages/tex/tex.mpl" folder="util" />
+      <modulePath path="${project}/languages/texgen/texgen.mpl" folder="languages.sr" />
+      <modulePath path="${project}/solutions/sr.functionblocks.rt/sr.functionblocks.rt.msd" folder="languages.sr" />
+      <modulePath path="${project}/solutions/test/test.msd" folder="examples" />
+    </projectModules>
+    <genConfs />
+  </component>
+  <component name="MigrationState">
+    <option name="myState" value="DONE" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+  <component name="ProjectVersion">
+    <option name="version" value="2.0" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+  </component>
+</project>
+

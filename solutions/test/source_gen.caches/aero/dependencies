@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="aero.Aircraft_Implementation" file="Aircraft_Implementation.java" />
+  <dependency className="aero.Environment_Implementation" file="Environment_Implementation.java" />
+  <dependency className="aero.FundamentalStuff_Implementation" file="FundamentalStuff_Implementation.java">
+    <classNode dependClassName="java.lang.Double" />
+    <classNode dependClassName="java.lang.Math" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="sr.functionblocks.rt.main.DoubleComparer" />
+    <classNode dependClassName="sr.functionblocks.rt.main.TestFailedException" />
+    <classNode dependClassName="sr.functionblocks.rt.main.Value" />
+    <classNode dependClassName="sr.functionblocks.rt.main.ValueSetContainer" />
+    <classNode extendsClassName="sr.functionblocks.rt.main.IFunctionBlockImplementation" />
+  </dependency>
+  <dependency className="aero.StuffontheWings_Implementation" file="StuffontheWings_Implementation.java">
+    <classNode dependClassName="aero.FundamentalStuff_Implementation" />
+    <classNode dependClassName="java.lang.Double" />
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="sr.functionblocks.rt.main.DoubleComparer" />
+    <classNode dependClassName="sr.functionblocks.rt.main.TestFailedException" />
+    <classNode dependClassName="sr.functionblocks.rt.main.Value" />
+    <classNode dependClassName="sr.functionblocks.rt.main.ValueSetContainer" />
+    <classNode extendsClassName="sr.functionblocks.rt.main.IFunctionBlockImplementation" />
+  </dependency>
+  <dependency className="aero.TestClass" file="TestClass.java">
+    <classNode dependClassName="aero.FundamentalStuff_Implementation" />
+    <classNode dependClassName="aero.StuffontheWings_Implementation" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="sr.functionblocks.rt.main.TestFailedException" />
+    <classNode dependClassName="sr.functionblocks.rt.main.Value" />
+    <classNode dependClassName="sr.functionblocks.rt.main.ValueSetContainer" />
+  </dependency>
+  <dependency className="aero.main" file="main.tex" />
+</dependenciesRoot>
+

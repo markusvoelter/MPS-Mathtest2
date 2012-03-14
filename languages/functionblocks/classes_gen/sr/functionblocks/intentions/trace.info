@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="21" endPosition="0" unitName="sr.functionblocks.intentions.IntentionsDescriptor" />
+  <root nodeId="3006277004735749129">
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735757591" fileName="addBlockImport_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="38" startPosition="58" endLine="39" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="40" startPosition="5" endLine="41" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735757595" fileName="addBlockImport_Intention.java" startLine="44" startPosition="90" endLine="45" endPosition="130" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735758060" fileName="addBlockImport_Intention.java" startLine="48" startPosition="76" endLine="49" endPosition="161" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="52" startPosition="37" endLine="53" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="13" startPosition="82" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="addBlockImport_Intention#()V" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="37" startPosition="84" endLine="40" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableToNode#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="36" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicable#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="14" startPosition="37" endLine="14" endPosition="37" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="63" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" />
+    <scopeInfo nodeId="3006277004735749131" fileName="addBlockImport_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="30" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="38" startPosition="58" endLine="39" endPosition="19" />
+    <scopeInfo nodeId="3006277004735757594" fileName="addBlockImport_Intention.java" startLine="44" startPosition="90" endLine="45" endPosition="130" />
+    <scopeInfo nodeId="3006277004735749133" fileName="addBlockImport_Intention.java" startLine="48" startPosition="76" endLine="49" endPosition="161" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="52" startPosition="37" endLine="53" endPosition="42" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="13" startPosition="82" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="37" startPosition="84" endLine="41" endPosition="16" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="51" startPosition="0" endLine="55" endPosition="0" />
+    <scopeInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="36" startPosition="0" endLine="43" endPosition="0" />
+    <unitInfo nodeId="3006277004735749129" fileName="addBlockImport_Intention.java" startLine="13" startPosition="0" endLine="56" endPosition="0" unitName="sr.functionblocks.intentions.addBlockImport_Intention" />
+  </root>
+  <root nodeId="7691223970092892472">
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="15" startPosition="30" endLine="16" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="19" startPosition="36" endLine="20" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="23" startPosition="37" endLine="24" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="27" startPosition="44" endLine="28" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970092900934" fileName="toggleExport_Intention.java" startLine="31" startPosition="85" endLine="32" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970092900936" fileName="toggleExport_Intention.java" startLine="35" startPosition="76" endLine="36" endPosition="104" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="39" startPosition="37" endLine="40" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="11" startPosition="80" endLine="13" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="toggleExport_Intention#()V" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="14" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <nodeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="38" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="12" startPosition="35" endLine="12" endPosition="35" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="15" startPosition="30" endLine="16" endPosition="56" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="19" startPosition="36" endLine="20" endPosition="17" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="23" startPosition="37" endLine="24" endPosition="17" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="27" startPosition="44" endLine="28" endPosition="16" />
+    <scopeInfo nodeId="7691223970092892474" fileName="toggleExport_Intention.java" startLine="31" startPosition="85" endLine="32" endPosition="27" />
+    <scopeInfo nodeId="7691223970092892476" fileName="toggleExport_Intention.java" startLine="35" startPosition="76" endLine="36" endPosition="104" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="39" startPosition="37" endLine="40" endPosition="42" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="11" startPosition="80" endLine="13" endPosition="3" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="14" startPosition="0" endLine="18" endPosition="0" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="38" startPosition="0" endLine="42" endPosition="0" />
+    <unitInfo nodeId="7691223970092892472" fileName="toggleExport_Intention.java" startLine="11" startPosition="0" endLine="43" endPosition="0" unitName="sr.functionblocks.intentions.toggleExport_Intention" />
+  </root>
+  <root nodeId="7691223970093125892">
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093125897" fileName="toggleTests_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093125917" fileName="toggleTests_Intention.java" startLine="38" startPosition="69" endLine="39" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093125955" fileName="toggleTests_Intention.java" startLine="39" startPosition="113" endLine="40" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093125968" fileName="toggleTests_Intention.java" startLine="41" startPosition="12" endLine="42" endPosition="108" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="46" startPosition="37" endLine="47" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="13" startPosition="79" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="toggleTests_Intention#()V" />
+    <nodeInfo nodeId="7691223970093125966" fileName="toggleTests_Intention.java" startLine="41" startPosition="10" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="45" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970093125900" fileName="toggleTests_Intention.java" startLine="37" startPosition="76" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="36" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="14" startPosition="34" endLine="14" endPosition="34" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="56" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="16" />
+    <scopeInfo nodeId="7691223970093125894" fileName="toggleTests_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="26" />
+    <scopeInfo nodeId="7691223970093125967" fileName="toggleTests_Intention.java" startLine="41" startPosition="12" endLine="42" endPosition="108" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="46" startPosition="37" endLine="47" endPosition="42" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="13" startPosition="79" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="7691223970093125901" fileName="toggleTests_Intention.java" startLine="38" startPosition="69" endLine="40" endPosition="60" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="45" startPosition="0" endLine="49" endPosition="0" />
+    <scopeInfo nodeId="7691223970093125896" fileName="toggleTests_Intention.java" startLine="37" startPosition="76" endLine="43" endPosition="5" />
+    <scopeInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="36" startPosition="0" endLine="45" endPosition="0" />
+    <unitInfo nodeId="7691223970093125892" fileName="toggleTests_Intention.java" startLine="13" startPosition="0" endLine="50" endPosition="0" unitName="sr.functionblocks.intentions.toggleTests_Intention" />
+  </root>
+  <root nodeId="7691223970093200800">
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="19" startPosition="30" endLine="20" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="23" startPosition="36" endLine="24" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="27" startPosition="37" endLine="28" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="31" startPosition="44" endLine="32" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093200805" fileName="hideAllTests_Intention.java" startLine="35" startPosition="85" endLine="36" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093200828" fileName="hideAllTests_Intention.java" startLine="41" startPosition="35" endLine="42" endPosition="129" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="47" startPosition="37" endLine="48" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="15" startPosition="80" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="hideAllTests_Intention#()V" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970093200824" fileName="hideAllTests_Intention.java" startLine="40" startPosition="113" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="46" startPosition="0" endLine="50" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7691223970093200807" fileName="hideAllTests_Intention.java" startLine="39" startPosition="76" endLine="44" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="38" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="16" startPosition="35" endLine="16" endPosition="35" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="19" startPosition="30" endLine="20" endPosition="55" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="23" startPosition="36" endLine="24" endPosition="17" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="27" startPosition="37" endLine="28" endPosition="17" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="31" startPosition="44" endLine="32" endPosition="16" />
+    <scopeInfo nodeId="7691223970093200802" fileName="hideAllTests_Intention.java" startLine="35" startPosition="85" endLine="36" endPosition="28" />
+    <scopeInfo nodeId="7691223970093200825" fileName="hideAllTests_Intention.java" startLine="41" startPosition="35" endLine="42" endPosition="129" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="47" startPosition="37" endLine="48" endPosition="42" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="15" startPosition="80" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="7691223970093200824" fileName="hideAllTests_Intention.java" startLine="40" startPosition="113" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="46" startPosition="0" endLine="50" endPosition="0" />
+    <scopeInfo nodeId="7691223970093200804" fileName="hideAllTests_Intention.java" startLine="39" startPosition="76" endLine="44" endPosition="7" />
+    <scopeInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="38" startPosition="0" endLine="46" endPosition="0" />
+    <unitInfo nodeId="7691223970093200824" fileName="hideAllTests_Intention.java" startLine="40" startPosition="94" endLine="44" endPosition="5" unitName="sr.functionblocks.intentions.hideAllTests_Intention$1" />
+    <unitInfo nodeId="7691223970093200800" fileName="hideAllTests_Intention.java" startLine="15" startPosition="0" endLine="51" endPosition="0" unitName="sr.functionblocks.intentions.hideAllTests_Intention" />
+  </root>
+</debugInfo>
+

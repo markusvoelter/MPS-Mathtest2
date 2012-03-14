@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="1525172282798171909">
+    <nodeInfo nodeId="1525172282798173284" fileName="InternalCompositeUnit.java" startLine="17" startPosition="36" endLine="18" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="elements" />
+    <nodeInfo nodeId="1525172282798172279" fileName="InternalCompositeUnit.java" startLine="23" startPosition="43" endLine="24" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798174298" fileName="InternalCompositeUnit.java" startLine="24" startPosition="60" endLine="25" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798172274" fileName="InternalCompositeUnit.java" startLine="25" startPosition="55" endLine="26" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798213352" fileName="InternalCompositeUnit.java" startLine="30" startPosition="61" endLine="31" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798213364" fileName="InternalCompositeUnit.java" startLine="32" startPosition="12" endLine="33" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798172336" fileName="InternalCompositeUnit.java" startLine="37" startPosition="65" endLine="38" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798213186" fileName="InternalCompositeUnit.java" startLine="39" startPosition="90" endLine="40" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798172128" fileName="InternalCompositeUnit.java" startLine="41" startPosition="5" endLine="42" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798172509" fileName="InternalCompositeUnit.java" startLine="45" startPosition="74" endLine="46" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798172542" fileName="InternalCompositeUnit.java" startLine="47" startPosition="90" endLine="48" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798172524" fileName="InternalCompositeUnit.java" startLine="49" startPosition="5" endLine="50" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798172235" fileName="InternalCompositeUnit.java" startLine="53" startPosition="42" endLine="54" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798214110" fileName="InternalCompositeUnit.java" startLine="56" startPosition="35" endLine="57" endPosition="98" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798214072" fileName="InternalCompositeUnit.java" startLine="59" startPosition="7" endLine="60" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560894461" fileName="InternalCompositeUnit.java" startLine="63" startPosition="44" endLine="64" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7203693294560894501" fileName="InternalCompositeUnit.java" startLine="66" startPosition="54" endLine="67" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560894468" fileName="InternalCompositeUnit.java" startLine="69" startPosition="5" endLine="70" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560894529" fileName="InternalCompositeUnit.java" startLine="73" startPosition="28" endLine="74" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798215764" fileName="InternalCompositeUnit.java" startLine="77" startPosition="25" endLine="78" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7203693294560881572" fileName="InternalCompositeUnit.java" startLine="80" startPosition="85" endLine="81" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+    <nodeInfo nodeId="1525172282798215789" fileName="InternalCompositeUnit.java" startLine="82" startPosition="7" endLine="83" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798215808" fileName="InternalCompositeUnit.java" startLine="83" startPosition="53" endLine="84" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798215841" fileName="InternalCompositeUnit.java" startLine="86" startPosition="25" endLine="87" endPosition="205" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798215891" fileName="InternalCompositeUnit.java" startLine="88" startPosition="29" endLine="89" endPosition="203" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560894414" fileName="InternalCompositeUnit.java" startLine="94" startPosition="149" endLine="95" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560894422" fileName="InternalCompositeUnit.java" startLine="97" startPosition="149" endLine="98" endPosition="141" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560881935" fileName="InternalCompositeUnit.java" startLine="99" startPosition="7" endLine="100" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560881945" fileName="InternalCompositeUnit.java" startLine="101" startPosition="12" endLine="102" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560875249" fileName="InternalCompositeUnit.java" startLine="106" startPosition="28" endLine="107" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7203693294560875276" fileName="InternalCompositeUnit.java" startLine="108" startPosition="81" endLine="109" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560875257" fileName="InternalCompositeUnit.java" startLine="110" startPosition="5" endLine="111" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798171911" fileName="InternalCompositeUnit.java" startLine="19" startPosition="0" endLine="21" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="InternalCompositeUnit#()V" />
+    <nodeInfo nodeId="1525172282798213362" fileName="InternalCompositeUnit.java" startLine="32" startPosition="10" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7203693294560881943" fileName="InternalCompositeUnit.java" startLine="101" startPosition="10" endLine="103" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="1525172282798213123" fileName="InternalCompositeUnit.java" startLine="38" startPosition="47" endLine="41" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1525172282798172532" fileName="InternalCompositeUnit.java" startLine="46" startPosition="47" endLine="49" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="7203693294560894482" fileName="InternalCompositeUnit.java" startLine="65" startPosition="81" endLine="68" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7203693294560881554" fileName="InternalCompositeUnit.java" startLine="79" startPosition="81" endLine="82" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7203693294560894390" fileName="InternalCompositeUnit.java" startLine="93" startPosition="140" endLine="96" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7203693294560894420" fileName="InternalCompositeUnit.java" startLine="96" startPosition="7" endLine="99" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7203693294560875266" fileName="InternalCompositeUnit.java" startLine="107" startPosition="41" endLine="110" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1525172282798214104" fileName="InternalCompositeUnit.java" startLine="55" startPosition="100" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7203693294560894524" fileName="InternalCompositeUnit.java" startLine="72" startPosition="0" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isEmpty#()Z" />
+    <nodeInfo nodeId="1525172282798213350" fileName="InternalCompositeUnit.java" startLine="29" startPosition="48" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1525172282798214077" fileName="InternalCompositeUnit.java" startLine="54" startPosition="53" endLine="59" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560894472" fileName="InternalCompositeUnit.java" startLine="64" startPosition="60" endLine="69" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1525172282798215836" fileName="InternalCompositeUnit.java" startLine="85" startPosition="47" endLine="90" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1525172282798172265" fileName="InternalCompositeUnit.java" startLine="22" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="cloneIt#()Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="1525172282798215818" fileName="InternalCompositeUnit.java" startLine="84" startPosition="35" endLine="91" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ForStatement" />
+    <nodeInfo nodeId="1525172282798213342" fileName="InternalCompositeUnit.java" startLine="28" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="addInternal#(Ljetbrains/mps/smodel/SNode;I)V" />
+    <nodeInfo nodeId="1525172282798172121" fileName="InternalCompositeUnit.java" startLine="36" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="add#(Lsr/si/rt/InternalCompositeUnit;)Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="1525172282798172505" fileName="InternalCompositeUnit.java" startLine="44" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="add#(Lsr/si/rt/InternalCompositeUnit;I)Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="7203693294560875241" fileName="InternalCompositeUnit.java" startLine="105" startPosition="0" endLine="113" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="1525172282798172185" fileName="InternalCompositeUnit.java" startLine="52" startPosition="0" endLine="62" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="inverse#()Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="7203693294560894454" fileName="InternalCompositeUnit.java" startLine="62" startPosition="0" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="normalize#()Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="7203693294560881915" fileName="InternalCompositeUnit.java" startLine="92" startPosition="5" endLine="103" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1525172282798215776" fileName="InternalCompositeUnit.java" startLine="78" startPosition="96" endLine="92" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1525172282798215734" fileName="InternalCompositeUnit.java" startLine="76" startPosition="0" endLine="105" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toUnit#()Ljetbrains/mps/smodel/SNode;" />
+    <scopeInfo nodeId="1525172282798171914" fileName="InternalCompositeUnit.java" startLine="20" startPosition="34" endLine="20" endPosition="34" />
+    <scopeInfo nodeId="1525172282798213351" fileName="InternalCompositeUnit.java" startLine="30" startPosition="61" endLine="31" endPosition="51" />
+    <scopeInfo nodeId="1525172282798213363" fileName="InternalCompositeUnit.java" startLine="32" startPosition="12" endLine="33" endPosition="93" />
+    <scopeInfo nodeId="1525172282798213126" fileName="InternalCompositeUnit.java" startLine="39" startPosition="90" endLine="40" endPosition="75" />
+    <scopeInfo nodeId="1525172282798172535" fileName="InternalCompositeUnit.java" startLine="47" startPosition="90" endLine="48" endPosition="81" />
+    <scopeInfo nodeId="1525172282798214105" fileName="InternalCompositeUnit.java" startLine="56" startPosition="35" endLine="57" endPosition="98" />
+    <scopeInfo nodeId="7203693294560894484" fileName="InternalCompositeUnit.java" startLine="66" startPosition="54" endLine="67" endPosition="87" />
+    <scopeInfo nodeId="7203693294560894527" fileName="InternalCompositeUnit.java" startLine="73" startPosition="28" endLine="74" endPosition="60" />
+    <scopeInfo nodeId="7203693294560881555" fileName="InternalCompositeUnit.java" startLine="80" startPosition="85" endLine="81" endPosition="17" />
+    <scopeInfo nodeId="1525172282798215837" fileName="InternalCompositeUnit.java" startLine="86" startPosition="25" endLine="87" endPosition="205" />
+    <scopeInfo nodeId="1525172282798215885" fileName="InternalCompositeUnit.java" startLine="88" startPosition="29" endLine="89" endPosition="203" />
+    <scopeInfo nodeId="7203693294560894391" fileName="InternalCompositeUnit.java" startLine="94" startPosition="149" endLine="95" endPosition="80" />
+    <scopeInfo nodeId="7203693294560894421" fileName="InternalCompositeUnit.java" startLine="97" startPosition="149" endLine="98" endPosition="141" />
+    <scopeInfo nodeId="7203693294560881944" fileName="InternalCompositeUnit.java" startLine="101" startPosition="12" endLine="102" endPosition="17" />
+    <scopeInfo nodeId="7203693294560875269" fileName="InternalCompositeUnit.java" startLine="108" startPosition="81" endLine="109" endPosition="109" />
+    <scopeInfo nodeId="1525172282798171911" fileName="InternalCompositeUnit.java" startLine="19" startPosition="0" endLine="21" endPosition="3" />
+    <scopeInfo nodeId="1525172282798172268" fileName="InternalCompositeUnit.java" startLine="23" startPosition="43" endLine="26" endPosition="15">
+      <varInfo nodeId="1525172282798172280" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798213123" fileName="InternalCompositeUnit.java" startLine="38" startPosition="47" endLine="41" endPosition="5" />
+    <scopeInfo nodeId="1525172282798172532" fileName="InternalCompositeUnit.java" startLine="46" startPosition="47" endLine="49" endPosition="5" />
+    <scopeInfo nodeId="7203693294560894475" fileName="InternalCompositeUnit.java" startLine="65" startPosition="81" endLine="68" endPosition="7" />
+    <scopeInfo nodeId="7203693294560875266" fileName="InternalCompositeUnit.java" startLine="107" startPosition="41" endLine="110" endPosition="5" />
+    <scopeInfo nodeId="1525172282798214104" fileName="InternalCompositeUnit.java" startLine="55" startPosition="100" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="7203693294560894524" fileName="InternalCompositeUnit.java" startLine="72" startPosition="0" endLine="76" endPosition="0" />
+    <scopeInfo nodeId="1525172282798213345" fileName="InternalCompositeUnit.java" startLine="29" startPosition="48" endLine="34" endPosition="5" />
+    <scopeInfo nodeId="1525172282798172124" fileName="InternalCompositeUnit.java" startLine="37" startPosition="65" endLine="42" endPosition="15">
+      <varInfo nodeId="1525172282798172337" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798172508" fileName="InternalCompositeUnit.java" startLine="45" startPosition="74" endLine="50" endPosition="15">
+      <varInfo nodeId="1525172282798172510" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="7203693294560894472" fileName="InternalCompositeUnit.java" startLine="64" startPosition="60" endLine="69" endPosition="5" />
+    <scopeInfo nodeId="1525172282798215819" fileName="InternalCompositeUnit.java" startLine="85" startPosition="47" endLine="90" endPosition="9" />
+    <scopeInfo nodeId="7203693294560875244" fileName="InternalCompositeUnit.java" startLine="106" startPosition="28" endLine="111" endPosition="25">
+      <varInfo nodeId="7203693294560875250" varName="bf" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798172265" fileName="InternalCompositeUnit.java" startLine="22" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="1525172282798172188" fileName="InternalCompositeUnit.java" startLine="53" startPosition="42" endLine="60" endPosition="15">
+      <varInfo nodeId="1525172282798172236" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="7203693294560894457" fileName="InternalCompositeUnit.java" startLine="63" startPosition="44" endLine="70" endPosition="15">
+      <varInfo nodeId="7203693294560894462" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798215818" fileName="InternalCompositeUnit.java" startLine="84" startPosition="35" endLine="91" endPosition="7">
+      <varInfo nodeId="1525172282798215821" varName="i" />
+    </scopeInfo>
+    <scopeInfo nodeId="7203693294560881916" fileName="InternalCompositeUnit.java" startLine="93" startPosition="140" endLine="100" endPosition="63" />
+    <scopeInfo nodeId="1525172282798213342" fileName="InternalCompositeUnit.java" startLine="28" startPosition="0" endLine="36" endPosition="0">
+      <varInfo nodeId="1525172282798213384" varName="exp" />
+      <varInfo nodeId="1525172282798213382" varName="unit" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798172121" fileName="InternalCompositeUnit.java" startLine="36" startPosition="0" endLine="44" endPosition="0">
+      <varInfo nodeId="1525172282798172125" varName="other" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798172505" fileName="InternalCompositeUnit.java" startLine="44" startPosition="0" endLine="52" endPosition="0">
+      <varInfo nodeId="1525172282798172528" varName="exp" />
+      <varInfo nodeId="1525172282798172526" varName="other" />
+    </scopeInfo>
+    <scopeInfo nodeId="7203693294560875241" fileName="InternalCompositeUnit.java" startLine="105" startPosition="0" endLine="113" endPosition="0" />
+    <scopeInfo nodeId="1525172282798172185" fileName="InternalCompositeUnit.java" startLine="52" startPosition="0" endLine="62" endPosition="0" />
+    <scopeInfo nodeId="7203693294560894454" fileName="InternalCompositeUnit.java" startLine="62" startPosition="0" endLine="72" endPosition="0" />
+    <scopeInfo nodeId="1525172282798215779" fileName="InternalCompositeUnit.java" startLine="79" startPosition="81" endLine="91" endPosition="7">
+      <varInfo nodeId="1525172282798215790" varName="exp" />
+      <varInfo nodeId="1525172282798215809" varName="isNegative" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798215776" fileName="InternalCompositeUnit.java" startLine="78" startPosition="96" endLine="92" endPosition="5" />
+    <scopeInfo nodeId="1525172282798215737" fileName="InternalCompositeUnit.java" startLine="77" startPosition="25" endLine="103" endPosition="5">
+      <varInfo nodeId="1525172282798215765" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798215734" fileName="InternalCompositeUnit.java" startLine="76" startPosition="0" endLine="105" endPosition="0" />
+    <unitInfo nodeId="1525172282798214104" fileName="InternalCompositeUnit.java" startLine="55" startPosition="81" endLine="59" endPosition="5" unitName="sr.si.rt.InternalCompositeUnit$1" />
+    <unitInfo nodeId="1525172282798171909" fileName="InternalCompositeUnit.java" startLine="17" startPosition="0" endLine="114" endPosition="0" unitName="sr.si.rt.InternalCompositeUnit" />
+  </root>
+</debugInfo>
+

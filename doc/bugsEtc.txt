@@ -1,0 +1,11 @@
+Editor anzeigen mit Computed Nodes (from behaviour) => In generator geht's; gleiches Framework?
+Transient Children
+Fast, Medium, Slow 
+wenn Dinge auskommetiert sind, werden die troztdem übersetzt!!
+when creating a new class, the cursor is not in the name field
+
+contents of the accessory model are not available in the generated Java code
+  -> separate solution is an ugly workaround because it shows in application projects
+  
+A way to suppress errors in the generator because the generator template code might be broken ("unreachable code"), but
+the generated code is always correct (because of a couple of ifs)

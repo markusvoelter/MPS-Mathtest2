@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IReducableUnit_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="sr.si.behavior.IReducableUnit_BehaviorDescriptor" />
+  <unitInfo fileName="KiloGramm_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.KiloGramm_BehaviorDescriptor" />
+  <unitInfo fileName="WeightUnit_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.WeightUnit_BehaviorDescriptor" />
+  <unitInfo fileName="ForceUnit_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.ForceUnit_BehaviorDescriptor" />
+  <unitInfo fileName="Newton_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.Newton_BehaviorDescriptor" />
+  <unitInfo fileName="PressureUnit_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.PressureUnit_BehaviorDescriptor" />
+  <unitInfo fileName="Pascal_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.Pascal_BehaviorDescriptor" />
+  <unitInfo fileName="Second_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.Second_BehaviorDescriptor" />
+  <unitInfo fileName="TimeUnit_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.TimeUnit_BehaviorDescriptor" />
+  <unitInfo fileName="NoUnit_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.NoUnit_BehaviorDescriptor" />
+  <unitInfo fileName="Hecto_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.Hecto_BehaviorDescriptor" />
+  <unitInfo fileName="Kilo_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.Kilo_BehaviorDescriptor" />
+  <unitInfo fileName="Meter_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.Meter_BehaviorDescriptor" />
+  <unitInfo fileName="LengthUnit_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="sr.si.behavior.LengthUnit_BehaviorDescriptor" />
+  <unitInfo fileName="Factor_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="sr.si.behavior.Factor_BehaviorDescriptor" />
+  <unitInfo fileName="CompositeUnit_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="25" endPosition="0" unitName="sr.si.behavior.CompositeUnit_BehaviorDescriptor" />
+  <unitInfo fileName="CompositeUnitFraction_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="25" endPosition="0" unitName="sr.si.behavior.CompositeUnitFraction_BehaviorDescriptor" />
+  <unitInfo fileName="Unit_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="26" endPosition="0" unitName="sr.si.behavior.Unit_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="sr.si.behavior.BehaviorAspectDescriptor" />
+  <root nodeId="1525172282798148614">
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="15" startPosition="28" endLine="16" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="PARAMETERS_1525172282798172010" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="16" startPosition="72" endLine="17" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="PARAMETERS_7203693294560873740" />
+    <nodeInfo nodeId="7203693294560878910" fileName="Unit_Behavior.java" startLine="22" startPosition="94" endLine="23" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7203693294560884123" fileName="Unit_Behavior.java" startLine="24" startPosition="83" endLine="25" endPosition="212" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560878919" fileName="Unit_Behavior.java" startLine="26" startPosition="5" endLine="27" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798172036" fileName="Unit_Behavior.java" startLine="27" startPosition="73" endLine="28" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560873745" fileName="Unit_Behavior.java" startLine="31" startPosition="77" endLine="32" endPosition="98" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="35" startPosition="91" endLine="36" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="36" startPosition="113" endLine="37" endPosition="197" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="40" startPosition="74" endLine="41" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="41" startPosition="113" endLine="42" endPosition="180" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="45" startPosition="124" endLine="46" endPosition="242" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="49" startPosition="107" endLine="50" endPosition="225" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="18" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7203693294560884106" fileName="Unit_Behavior.java" startLine="23" startPosition="61" endLine="26" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_toString_7203693294560873740#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="callSuper_toInternal_1525172282798172010#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;)Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="48" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="callSuper_toString_7203693294560873740#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;)Ljava/lang/String;" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="34" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_toInternal_1525172282798172010#(Ljetbrains/mps/smodel/SNode;)Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="39" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_toString_7203693294560873740#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="21" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_toInternal_1525172282798172010#(Ljetbrains/mps/smodel/SNode;)Lsr/si/rt/InternalCompositeUnit;" />
+    <scopeInfo nodeId="1525172282798148616" fileName="Unit_Behavior.java" startLine="19" startPosition="43" endLine="19" endPosition="43" />
+    <scopeInfo nodeId="7203693294560884107" fileName="Unit_Behavior.java" startLine="24" startPosition="83" endLine="25" endPosition="212" />
+    <scopeInfo nodeId="7203693294560873743" fileName="Unit_Behavior.java" startLine="31" startPosition="77" endLine="32" endPosition="98" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="45" startPosition="124" endLine="46" endPosition="242" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="49" startPosition="107" endLine="50" endPosition="225" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="35" startPosition="91" endLine="37" endPosition="197" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="40" startPosition="74" endLine="42" endPosition="180" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="18" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="48" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="34" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="39" startPosition="0" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="1525172282798172013" fileName="Unit_Behavior.java" startLine="22" startPosition="94" endLine="28" endPosition="16">
+      <varInfo nodeId="7203693294560878911" varName="unit" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="21" startPosition="0" endLine="30" endPosition="0" />
+    <unitInfo nodeId="1525172282798148614" fileName="Unit_Behavior.java" startLine="15" startPosition="0" endLine="53" endPosition="0" unitName="sr.si.behavior.Unit_Behavior" />
+  </root>
+  <root nodeId="1525172282798159681">
+    <nodeInfo nodeId="1525172282798172061" fileName="CompositeUnit_Behavior.java" startLine="15" startPosition="94" endLine="16" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1525172282798172082" fileName="CompositeUnit_Behavior.java" startLine="17" startPosition="98" endLine="18" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798172068" fileName="CompositeUnit_Behavior.java" startLine="19" startPosition="5" endLine="20" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560873773" fileName="CompositeUnit_Behavior.java" startLine="23" startPosition="77" endLine="24" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7203693294560873793" fileName="CompositeUnit_Behavior.java" startLine="24" startPosition="47" endLine="25" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560873827" fileName="CompositeUnit_Behavior.java" startLine="27" startPosition="35" endLine="28" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560873802" fileName="CompositeUnit_Behavior.java" startLine="30" startPosition="7" endLine="31" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560873781" fileName="CompositeUnit_Behavior.java" startLine="31" startPosition="19" endLine="32" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798159681" fileName="CompositeUnit_Behavior.java" startLine="11" startPosition="37" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="1525172282798172072" fileName="CompositeUnit_Behavior.java" startLine="16" startPosition="60" endLine="19" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="7203693294560873823" fileName="CompositeUnit_Behavior.java" startLine="26" startPosition="113" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7203693294560873811" fileName="CompositeUnit_Behavior.java" startLine="25" startPosition="19" endLine="30" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1525172282798159681" fileName="CompositeUnit_Behavior.java" startLine="14" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_toInternal_1525172282798172010#(Ljetbrains/mps/smodel/SNode;)Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="1525172282798159681" fileName="CompositeUnit_Behavior.java" startLine="22" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_toString_7203693294560873740#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <scopeInfo nodeId="1525172282798159683" fileName="CompositeUnit_Behavior.java" startLine="12" startPosition="43" endLine="12" endPosition="43" />
+    <scopeInfo nodeId="1525172282798172075" fileName="CompositeUnit_Behavior.java" startLine="17" startPosition="98" endLine="18" endPosition="77" />
+    <scopeInfo nodeId="7203693294560873824" fileName="CompositeUnit_Behavior.java" startLine="27" startPosition="35" endLine="28" endPosition="77" />
+    <scopeInfo nodeId="1525172282798159681" fileName="CompositeUnit_Behavior.java" startLine="11" startPosition="37" endLine="14" endPosition="0" />
+    <scopeInfo nodeId="1525172282798172072" fileName="CompositeUnit_Behavior.java" startLine="16" startPosition="60" endLine="19" endPosition="5" />
+    <scopeInfo nodeId="7203693294560873823" fileName="CompositeUnit_Behavior.java" startLine="26" startPosition="113" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="1525172282798172056" fileName="CompositeUnit_Behavior.java" startLine="15" startPosition="94" endLine="20" endPosition="15">
+      <varInfo nodeId="1525172282798172062" varName="res" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798159681" fileName="CompositeUnit_Behavior.java" startLine="14" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="7203693294560873768" fileName="CompositeUnit_Behavior.java" startLine="23" startPosition="77" endLine="32" endPosition="25">
+      <varInfo nodeId="7203693294560873774" varName="bf" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798159681" fileName="CompositeUnit_Behavior.java" startLine="22" startPosition="0" endLine="34" endPosition="0" />
+    <unitInfo nodeId="7203693294560873823" fileName="CompositeUnit_Behavior.java" startLine="26" startPosition="94" endLine="30" endPosition="5" unitName="sr.si.behavior.CompositeUnit_Behavior$1" />
+    <unitInfo nodeId="1525172282798159681" fileName="CompositeUnit_Behavior.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="sr.si.behavior.CompositeUnit_Behavior" />
+  </root>
+  <root nodeId="1525172282798159719">
+    <nodeInfo nodeId="1525172282798172113" fileName="CompositeUnitFraction_Behavior.java" startLine="13" startPosition="94" endLine="14" endPosition="273" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7203693294560873848" fileName="CompositeUnitFraction_Behavior.java" startLine="17" startPosition="77" endLine="18" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7203693294560873886" fileName="CompositeUnitFraction_Behavior.java" startLine="18" startPosition="41" endLine="19" endPosition="119" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560873904" fileName="CompositeUnitFraction_Behavior.java" startLine="19" startPosition="119" endLine="20" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560873913" fileName="CompositeUnitFraction_Behavior.java" startLine="20" startPosition="21" endLine="21" endPosition="121" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7203693294560873880" fileName="CompositeUnitFraction_Behavior.java" startLine="21" startPosition="121" endLine="22" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1525172282798159719" fileName="CompositeUnitFraction_Behavior.java" startLine="9" startPosition="45" endLine="12" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="1525172282798159719" fileName="CompositeUnitFraction_Behavior.java" startLine="12" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_toInternal_1525172282798172010#(Ljetbrains/mps/smodel/SNode;)Lsr/si/rt/InternalCompositeUnit;" />
+    <nodeInfo nodeId="1525172282798159719" fileName="CompositeUnitFraction_Behavior.java" startLine="16" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_toString_7203693294560873740#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <scopeInfo nodeId="1525172282798159721" fileName="CompositeUnitFraction_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
+    <scopeInfo nodeId="1525172282798172052" fileName="CompositeUnitFraction_Behavior.java" startLine="13" startPosition="94" endLine="14" endPosition="273" />
+    <scopeInfo nodeId="1525172282798159719" fileName="CompositeUnitFraction_Behavior.java" startLine="9" startPosition="45" endLine="12" endPosition="0" />
+    <scopeInfo nodeId="1525172282798159719" fileName="CompositeUnitFraction_Behavior.java" startLine="12" startPosition="0" endLine="16" endPosition="0" />
+    <scopeInfo nodeId="7203693294560873845" fileName="CompositeUnitFraction_Behavior.java" startLine="17" startPosition="77" endLine="22" endPosition="25">
+      <varInfo nodeId="7203693294560873849" varName="bf" />
+    </scopeInfo>
+    <scopeInfo nodeId="1525172282798159719" fileName="CompositeUnitFraction_Behavior.java" startLine="16" startPosition="0" endLine="24" endPosition="0" />
+    <unitInfo nodeId="1525172282798159719" fileName="CompositeUnitFraction_Behavior.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="sr.si.behavior.CompositeUnitFraction_Behavior" />
+  </root>
+</debugInfo>
+

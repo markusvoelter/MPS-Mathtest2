@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="3006277004735719809">
+    <nodeInfo nodeId="3006277004735881329" fileName="Value.java" startLine="6" startPosition="20" endLine="7" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="name" />
+    <nodeInfo nodeId="3006277004735881333" fileName="Value.java" startLine="7" startPosition="22" endLine="8" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="value" />
+    <nodeInfo nodeId="3006277004735881337" fileName="Value.java" startLine="10" startPosition="41" endLine="11" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3006277004735881349" fileName="Value.java" startLine="11" startPosition="21" endLine="12" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3006277004735881327" fileName="Value.java" startLine="15" startPosition="37" endLine="16" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735881404" fileName="Value.java" startLine="19" startPosition="28" endLine="20" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735719811" fileName="Value.java" startLine="9" startPosition="0" endLine="13" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Value#(Ljava/lang/String;Ljava/lang/Object;)V" />
+    <nodeInfo nodeId="3006277004735881320" fileName="Value.java" startLine="14" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isFor#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="3006277004735881399" fileName="Value.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#()Ljava/lang/Object;" />
+    <scopeInfo nodeId="3006277004735881323" fileName="Value.java" startLine="15" startPosition="37" endLine="16" endPosition="34" />
+    <scopeInfo nodeId="3006277004735881402" fileName="Value.java" startLine="19" startPosition="28" endLine="20" endPosition="17" />
+    <scopeInfo nodeId="3006277004735719814" fileName="Value.java" startLine="10" startPosition="41" endLine="12" endPosition="21" />
+    <scopeInfo nodeId="3006277004735719811" fileName="Value.java" startLine="9" startPosition="0" endLine="13" endPosition="3">
+      <varInfo nodeId="3006277004735719817" varName="val" />
+      <varInfo nodeId="3006277004735719815" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735881320" fileName="Value.java" startLine="14" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="3006277004735881325" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735881399" fileName="Value.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <unitInfo nodeId="3006277004735719809" fileName="Value.java" startLine="6" startPosition="0" endLine="23" endPosition="0" unitName="sr.functionblocks.rt.main.Value" />
+  </root>
+  <root nodeId="3006277004735719825">
+    <nodeInfo nodeId="3006277004735881303" fileName="ValueSetContainer.java" startLine="6" startPosition="32" endLine="7" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="values" />
+    <nodeInfo nodeId="3006277004735881422" fileName="ValueSetContainer.java" startLine="7" startPosition="25" endLine="8" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="children" />
+    <nodeInfo nodeId="3006277004735881309" fileName="ValueSetContainer.java" startLine="10" startPosition="45" endLine="11" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3006277004735881392" fileName="ValueSetContainer.java" startLine="16" startPosition="29" endLine="17" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735881483" fileName="ValueSetContainer.java" startLine="21" startPosition="44" endLine="22" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3006277004735881504" fileName="ValueSetContainer.java" startLine="23" startPosition="24" endLine="24" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735878276" fileName="ValueSetContainer.java" startLine="27" startPosition="5" endLine="28" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735881436" fileName="ValueSetContainer.java" startLine="31" startPosition="57" endLine="32" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3006277004735881450" fileName="ValueSetContainer.java" startLine="35" startPosition="81" endLine="36" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3006277004735881457" fileName="ValueSetContainer.java" startLine="36" startPosition="50" endLine="37" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3006277004735878279" fileName="ValueSetContainer.java" startLine="37" startPosition="30" endLine="38" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3006277004735719827" fileName="ValueSetContainer.java" startLine="9" startPosition="0" endLine="12" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ValueSetContainer#(null)V" />
+    <nodeInfo nodeId="3006277004735881381" fileName="ValueSetContainer.java" startLine="15" startPosition="28" endLine="18" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3006277004735881495" fileName="ValueSetContainer.java" startLine="22" startPosition="37" endLine="25" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3006277004735881428" fileName="ValueSetContainer.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setChildren#([Lsr/functionblocks/rt/main/ValueSetContainer;)V" />
+    <nodeInfo nodeId="3006277004735881374" fileName="ValueSetContainer.java" startLine="14" startPosition="40" endLine="19" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="3006277004735881468" fileName="ValueSetContainer.java" startLine="20" startPosition="27" endLine="26" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="3006277004735868528" fileName="ValueSetContainer.java" startLine="34" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="createForAll#(null)Lsr/functionblocks/rt/main/ValueSetContainer;" />
+    <nodeInfo nodeId="3006277004735897025" fileName="ValueSetContainer.java" startLine="19" startPosition="5" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3006277004735868574" fileName="ValueSetContainer.java" startLine="13" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getFor#(Ljava/lang/String;)Ljava/lang/Object;" />
+    <scopeInfo nodeId="3006277004735719830" fileName="ValueSetContainer.java" startLine="10" startPosition="45" endLine="11" endPosition="25" />
+    <scopeInfo nodeId="3006277004735881382" fileName="ValueSetContainer.java" startLine="16" startPosition="29" endLine="17" endPosition="28" />
+    <scopeInfo nodeId="3006277004735881496" fileName="ValueSetContainer.java" startLine="23" startPosition="24" endLine="24" endPosition="19" />
+    <scopeInfo nodeId="3006277004735881431" fileName="ValueSetContainer.java" startLine="31" startPosition="57" endLine="32" endPosition="29" />
+    <scopeInfo nodeId="3006277004735719827" fileName="ValueSetContainer.java" startLine="9" startPosition="0" endLine="12" endPosition="3">
+      <varInfo nodeId="3006277004735719831" varName="values" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735881376" fileName="ValueSetContainer.java" startLine="15" startPosition="28" endLine="18" endPosition="7" />
+    <scopeInfo nodeId="3006277004735868531" fileName="ValueSetContainer.java" startLine="35" startPosition="81" endLine="38" endPosition="13">
+      <varInfo nodeId="3006277004735881451" varName="c" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735881470" fileName="ValueSetContainer.java" startLine="21" startPosition="44" endLine="25" endPosition="9">
+      <varInfo nodeId="3006277004735881484" varName="t" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735881428" fileName="ValueSetContainer.java" startLine="30" startPosition="0" endLine="34" endPosition="0">
+      <varInfo nodeId="3006277004735881432" varName="children" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735881374" fileName="ValueSetContainer.java" startLine="14" startPosition="40" endLine="19" endPosition="5">
+      <varInfo nodeId="3006277004735881375" varName="v" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735881468" fileName="ValueSetContainer.java" startLine="20" startPosition="27" endLine="26" endPosition="7">
+      <varInfo nodeId="3006277004735881469" varName="c" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735897026" fileName="ValueSetContainer.java" startLine="20" startPosition="27" endLine="26" endPosition="7" />
+    <scopeInfo nodeId="3006277004735868528" fileName="ValueSetContainer.java" startLine="34" startPosition="0" endLine="40" endPosition="0">
+      <varInfo nodeId="3006277004735868533" varName="containers" />
+    </scopeInfo>
+    <scopeInfo nodeId="3006277004735868577" fileName="ValueSetContainer.java" startLine="14" startPosition="40" endLine="28" endPosition="16" />
+    <scopeInfo nodeId="3006277004735868574" fileName="ValueSetContainer.java" startLine="13" startPosition="0" endLine="30" endPosition="0">
+      <varInfo nodeId="3006277004735868579" varName="symname" />
+    </scopeInfo>
+    <unitInfo nodeId="3006277004735719825" fileName="ValueSetContainer.java" startLine="6" startPosition="0" endLine="41" endPosition="0" unitName="sr.functionblocks.rt.main.ValueSetContainer" />
+  </root>
+  <root nodeId="3893397118698829050">
+    <nodeInfo nodeId="3893397118698829063" fileName="TestFailedException.java" startLine="10" startPosition="46" endLine="11" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="3893397118698829052" fileName="TestFailedException.java" startLine="6" startPosition="52" endLine="8" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TestFailedException#()V" />
+    <nodeInfo nodeId="3893397118698829057" fileName="TestFailedException.java" startLine="9" startPosition="0" endLine="12" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TestFailedException#(Ljava/lang/String;)V" />
+    <scopeInfo nodeId="3893397118698829055" fileName="TestFailedException.java" startLine="7" startPosition="32" endLine="7" endPosition="32" />
+    <scopeInfo nodeId="3893397118698829060" fileName="TestFailedException.java" startLine="10" startPosition="46" endLine="11" endPosition="19" />
+    <scopeInfo nodeId="3893397118698829052" fileName="TestFailedException.java" startLine="6" startPosition="52" endLine="8" endPosition="3" />
+    <scopeInfo nodeId="3893397118698829057" fileName="TestFailedException.java" startLine="9" startPosition="0" endLine="12" endPosition="3">
+      <varInfo nodeId="3893397118698829061" varName="message" />
+    </scopeInfo>
+    <unitInfo nodeId="3893397118698829050" fileName="TestFailedException.java" startLine="6" startPosition="0" endLine="14" endPosition="0" unitName="sr.functionblocks.rt.main.TestFailedException" />
+  </root>
+  <root nodeId="3893397118698833681">
+    <nodeInfo nodeId="3893397118698833683" fileName="IFunctionBlockImplementation.java" startLine="6" startPosition="47" endLine="7" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="runTests#()V" />
+    <scopeInfo nodeId="3893397118698833683" fileName="IFunctionBlockImplementation.java" startLine="6" startPosition="47" endLine="7" endPosition="52" />
+    <unitInfo nodeId="3893397118698833681" fileName="IFunctionBlockImplementation.java" startLine="6" startPosition="0" endLine="9" endPosition="0" unitName="sr.functionblocks.rt.main.IFunctionBlockImplementation" />
+  </root>
+  <root nodeId="3893397118698845559">
+    <nodeInfo nodeId="3893397118698845564" fileName="DoubleComparer.java" startLine="10" startPosition="54" endLine="11" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3893397118698845577" fileName="DoubleComparer.java" startLine="14" startPosition="68" endLine="15" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3893397118698845591" fileName="DoubleComparer.java" startLine="6" startPosition="29" endLine="8" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="DoubleComparer#()V" />
+    <nodeInfo nodeId="3893397118698845560" fileName="DoubleComparer.java" startLine="9" startPosition="0" endLine="13" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="isSame#(DD)Z" />
+    <nodeInfo nodeId="3893397118698845573" fileName="DoubleComparer.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="isSame#(DDD)Z" />
+    <scopeInfo nodeId="3893397118698845594" fileName="DoubleComparer.java" startLine="7" startPosition="27" endLine="7" endPosition="27" />
+    <scopeInfo nodeId="3893397118698845563" fileName="DoubleComparer.java" startLine="10" startPosition="54" endLine="11" endPosition="34" />
+    <scopeInfo nodeId="3893397118698845576" fileName="DoubleComparer.java" startLine="14" startPosition="68" endLine="15" endPosition="38" />
+    <scopeInfo nodeId="3893397118698845591" fileName="DoubleComparer.java" startLine="6" startPosition="29" endLine="8" endPosition="3" />
+    <scopeInfo nodeId="3893397118698845560" fileName="DoubleComparer.java" startLine="9" startPosition="0" endLine="13" endPosition="0">
+      <varInfo nodeId="3893397118698845569" varName="d1" />
+      <varInfo nodeId="3893397118698845571" varName="d2" />
+    </scopeInfo>
+    <scopeInfo nodeId="3893397118698845573" fileName="DoubleComparer.java" startLine="13" startPosition="0" endLine="17" endPosition="0">
+      <varInfo nodeId="3893397118698845584" varName="d1" />
+      <varInfo nodeId="3893397118698845586" varName="d2" />
+      <varInfo nodeId="3893397118698845588" varName="delta" />
+    </scopeInfo>
+    <unitInfo nodeId="3893397118698845559" fileName="DoubleComparer.java" startLine="6" startPosition="0" endLine="18" endPosition="0" unitName="sr.functionblocks.rt.main.DoubleComparer" />
+  </root>
+</debugInfo>
+
