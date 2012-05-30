@@ -6,8 +6,9 @@ import jetbrains.mps.intentions.BaseIntention;
 import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
-import jetbrains.mps.smodel.AttributesRolesUtil;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.AttributeOperations;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.IAttributeDescriptor;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
 import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 
 public class addBlockImport_Intention extends BaseIntention implements Intention {
@@ -42,11 +43,11 @@ public class addBlockImport_Intention extends BaseIntention implements Intention
   }
 
   public boolean isApplicableToNode(final SNode node, final EditorContext editorContext) {
-    return SLinkOperations.getTarget(node, AttributesRolesUtil.childRoleFromAttributeRole("blockImportAnnotation"), true) == null;
+    return AttributeOperations.getAttribute(node, new IAttributeDescriptor.NodeAttribute(SConceptOperations.findConceptDeclaration("sr.functionblocks.structure.BlockImport"))) == null;
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SNodeFactoryOperations.setNewChild(node, AttributesRolesUtil.childRoleFromAttributeRole("blockImportAnnotation"), "sr.functionblocks.structure.BlockImport");
+    SNodeFactoryOperations.setNewAttribute(node, new IAttributeDescriptor.NodeAttribute(SConceptOperations.findConceptDeclaration("sr.functionblocks.structure.BlockImport")), "sr.functionblocks.structure.BlockImport");
   }
 
   public String getLocationString() {

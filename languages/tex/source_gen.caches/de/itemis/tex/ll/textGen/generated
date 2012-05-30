@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-5mazxu1062lfpeqgfggt3jxziltxpon">
+<dependencies version="2" modelHash="8xefs3g5pqidssooj8ziw9j64kp8o1d">
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
@@ -13,14 +13,14 @@
   <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   <dep model="r:1e88207e-a8e3-4e7e-8d9b-916f60cbdc61(jetbrains.mps.lang.textGen.generator.template.main@generator)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
-  <dep model="r:b8a3e697-66c3-4627-827a-7ed67b4e843a(de.itemis.tex.ll.structure)" hash="10urgvmfovwwe8tz4ht98537jashh65" />
+  <dep model="r:b8a3e697-66c3-4627-827a-7ed67b4e843a(de.itemis.tex.ll.structure)" hash="8r3cleduy7j7jdxhbhd6d1mnwxiryrs" />
   <dep model="r:c3548bac-30eb-4a2a-937c-0111d5697309(jetbrains.mps.lang.smodel.generator.smodelAdapter)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
   <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
-  <common hash="3s1genupep9wj5mqxc9dhrszcl73u2y">
+  <common hash="-djzngght2pwg63hz9d0x99tn6lmpcri">
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   </common>
-  <source id="2194098664609169714" name="TexResource_TextGen" hash="6gewh8k89wi5jaoyo7a4yzvuj3j8m6h">
+  <source id="2194098664609169714" name="TexResource_TextGen" hash="ehudqyfv5jdncn5op0tdmr3ygsafxz1">
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -37,7 +37,7 @@
     <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
     <file name="TexResource_TextGen.java" />
   </source>
-  <source id="6490254263633715700" name="TexHeader_TextGen" hash="-658c3wfx4ngnets08wfh2m7v8vxyjs9">
+  <source id="6490254263633715700" name="TexHeader_TextGen" hash="4gki5nv3cbikeccehgkxqs1xzz9t8rl">
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
@@ -57,7 +57,7 @@
     <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
     <file name="TexHeader_TextGen.java" />
   </source>
-  <source id="6490254263633743484" name="TexHeaderCommand_TextGen" hash="51hcccx4sih8ajjt0amnwhkxkws1a01">
+  <source id="6490254263633743484" name="TexHeaderCommand_TextGen" hash="44t63icnoiiddyfyc2drahxex92rz6v">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -74,7 +74,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="TexHeaderCommand_TextGen.java" />
   </source>
-  <source id="6490254263633743507" name="TexSimpleDirective_TextGen" hash="bp50dokrgnro632mazpjwd8l3wc80nl">
+  <source id="6490254263633743507" name="TexSimpleDirective_TextGen" hash="-d5lxdnb9ietldxjov3r846iv6v1p1vy">
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
@@ -88,7 +88,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="TexSimpleDirective_TextGen.java" />
   </source>
-  <source id="6490254263633743534" name="TexSimpleDirWithText_TextGen" hash="3r78fhe64tpsrs4128f3kb1a2kfjzi7">
+  <source id="6490254263633743534" name="TexSimpleDirWithText_TextGen" hash="39uy7b5d338qg69i1h05dx5h6bc9ga">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -105,7 +105,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="TexSimpleDirWithText_TextGen.java" />
   </source>
-  <source id="6490254263633743564" name="TexContainerDirective_TextGen" hash="-4d29m9ejqqi7dw2uvfkp2guvf9e8vsc">
+  <source id="6490254263633743564" name="TexContainerDirective_TextGen" hash="-2nqrms6xm70mkydly0z0yhv4241t4tx">
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -122,7 +122,7 @@
     <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
     <file name="TexContainerDirective_TextGen.java" />
   </source>
-  <source id="6490254263633749199" name="TextOnlyDirective_TextGen" hash="-50rot65rps5gnhzpav6x9bkkx2kfpmq">
+  <source id="6490254263633749199" name="TextOnlyDirective_TextGen" hash="fhw2rwhvycdtt7jttj2fvti764qepy">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -139,7 +139,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="TextOnlyDirective_TextGen.java" />
   </source>
-  <source id="6490254263633850590" name="TexGroup_TextGen" hash="2le01ciotm2hhi9955ufkejdswoki13">
+  <source id="6490254263633850590" name="TexGroup_TextGen" hash="-ecqw57itikb5t16aeoko2jsxzhkzjm9">
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -156,7 +156,7 @@
     <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
     <file name="TexGroup_TextGen.java" />
   </source>
-  <source id="6490254263633863554" name="TexNewLine_TextGen" hash="1hzfhb12tvgkm0l1q0izjbckdules02">
+  <source id="6490254263633863554" name="TexNewLine_TextGen" hash="-bzffmh27fhudk3hforzp1x2jupo17wf">
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
@@ -169,7 +169,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="TexNewLine_TextGen.java" />
   </source>
-  <source id="4689918572531099968" name="TextMultiDirective_TextGen" hash="-5igl0kaf8p5uegw8yushct6od8ngobg">
+  <source id="4689918572531099968" name="TextMultiDirective_TextGen" hash="-7qamnqx0wspd53wzq8623pzxaro3o6z">
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -187,7 +187,7 @@
     <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
     <file name="TextMultiDirective_TextGen.java" />
   </source>
-  <source id="4689918572531104707" name="TextMultiElement_TextGen" hash="-6mrbbev3ecvrxv69v3hup1nbhzs6yr4">
+  <source id="4689918572531104707" name="TextMultiElement_TextGen" hash="awbgj54vlu7dd354qswpn6coqr1dkcl">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />

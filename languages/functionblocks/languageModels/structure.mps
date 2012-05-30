@@ -118,13 +118,7 @@
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3006277004735736934">
       <property name="name" nameId="tpck.1169194664001" value="BlockImport" />
       <property name="virtualPackage" nameId="tpck.1193676396447" value="javaIntegration" />
-      <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
-    </node>
-    <node type="tpce.AnnotationLinkDeclaration" typeId="tpce.1149608206811" id="3006277004735736935">
-      <property name="role" nameId="tpce.1204740973143" value="blockImportAnnotation" />
-      <property name="virtualPackage" nameId="tpck.1193676396447" value="javaIntegration" />
-      <link role="source" roleId="tpce.1149608246500" targetNodeId="tpee.1068390468198" resolveInfo="ClassConcept" />
-      <link role="target" roleId="tpce.1204741097161" targetNodeId="3006277004735736934" resolveInfo="BlockImport" />
+      <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.3364660638048049748" resolveInfo="NodeAttribute" />
     </node>
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3006277004735758408">
       <property name="name" nameId="tpck.1169194664001" value="BlockImportBlockRef" />
@@ -389,14 +383,21 @@
     </node>
   </root>
   <root id="3006277004735736934">
+    <node role="conceptLink" roleId="tpce.1105736949336" type="tpce.ReferenceConceptLink" typeId="tpce.1105736778597" id="9080520345268383383">
+      <link role="conceptLinkDeclaration" roleId="tpce.1105736734721" targetNodeId="tpck.5169995583184591169" resolveInfo="attributed" />
+      <link role="target" roleId="tpce.1105736807942" targetNodeId="tpee.1068390468198" resolveInfo="ClassConcept" />
+    </node>
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="3006277004735758416">
       <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
       <property name="role" nameId="tpce.1071599776563" value="blocks" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="0..n" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="3006277004735758408" resolveInfo="BlockImportBlockRef" />
     </node>
+    <node role="conceptProperty" roleId="tpce.1105725339613" type="tpce.StringConceptProperty" typeId="tpce.1105725638761" id="9080520345268383381">
+      <property name="value" nameId="tpce.1105725733873" value="blockImportAnnotation" />
+      <link role="conceptPropertyDeclaration" roleId="tpce.1105725439818" targetNodeId="tpck.5169995583184591164" resolveInfo="role" />
+    </node>
   </root>
-  <root id="3006277004735736935" />
   <root id="3006277004735758408">
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="3006277004735758409">
       <property name="metaClass" nameId="tpce.1071599937831" value="reference" />

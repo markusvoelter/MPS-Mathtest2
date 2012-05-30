@@ -355,8 +355,8 @@
         <node role="tests" roleId="4x8g.7691223970093132108" type="4x8g.FunctionUnitTest" typeId="4x8g.7691223970093132107" id="7691223970093181177">
           <property name="isOk" nameId="4x8g.2760238001580465229" value="true" />
           <node role="values" roleId="4x8g.7691223970093150949" type="4x8g.SymbolValue" typeId="4x8g.7691223970093150933" id="7691223970093181179">
-            <node role="value" roleId="4x8g.7691223970093150936" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="3893397118698881618">
-              <property name="value" nameId="tpee.1113006610751" value="10.0" />
+            <node role="value" roleId="4x8g.7691223970093150936" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="6991865057875980925">
+              <property name="value" nameId="tpee.1113006610751" value="7.5" />
             </node>
             <node role="symbol" roleId="4x8g.7691223970093150935" type="4x8g.SymbolReference" typeId="4x8g.7691223970092863640" id="7691223970093181181">
               <link role="symbol" roleId="4x8g.7691223970092863641" targetNodeId="7691223970093052471" resolveInfo="v" />
@@ -367,24 +367,24 @@
               <link role="symbol" roleId="4x8g.7691223970092863641" targetNodeId="7691223970093052457" resolveInfo="rho" />
             </node>
             <node role="value" roleId="4x8g.7691223970093150936" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="7691223970093200795">
-              <property name="value" nameId="tpee.1113006610751" value="1.225" />
+              <property name="value" nameId="tpee.1113006610751" value="1.0" />
             </node>
           </node>
           <node role="expectedResult" roleId="4x8g.7691223970093150957" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="8212155327171731828">
-            <property name="value" nameId="tpee.1113006610751" value="61.25" />
+            <property name="value" nameId="tpee.1113006610751" value="56.25" />
           </node>
-          <node role="actualResult" roleId="4x8g.2760238001580348188" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="5806002142908469698">
-            <property name="value" nameId="tpee.1113006610751" value="61.25000000000001" />
+          <node role="actualResult" roleId="4x8g.2760238001580348188" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="6991865057875980934">
+            <property name="value" nameId="tpee.1113006610751" value="56.25" />
           </node>
         </node>
         <node role="tests" roleId="4x8g.7691223970093132108" type="4x8g.FunctionUnitTest" typeId="4x8g.7691223970093132107" id="7691223970093181165">
-          <property name="isOk" nameId="4x8g.2760238001580465229" value="true" />
+          <property name="isOk" nameId="4x8g.2760238001580465229" value="false" />
           <node role="expectedResult" roleId="4x8g.7691223970093150957" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="7691223970093200799">
             <property name="value" nameId="tpee.1113006610751" value="61.1125" />
           </node>
           <node role="values" roleId="4x8g.7691223970093150949" type="4x8g.SymbolValue" typeId="4x8g.7691223970093150933" id="7691223970093181167">
             <node role="value" roleId="4x8g.7691223970093150936" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="3893397118698881619">
-              <property name="value" nameId="tpee.1113006610751" value="10.0" />
+              <property name="value" nameId="tpee.1113006610751" value="15.0" />
             </node>
             <node role="symbol" roleId="4x8g.7691223970093150935" type="4x8g.SymbolReference" typeId="4x8g.7691223970092863640" id="7691223970093181169">
               <link role="symbol" roleId="4x8g.7691223970092863641" targetNodeId="7691223970093052471" resolveInfo="v" />
@@ -398,12 +398,12 @@
               <property name="value" nameId="tpee.1113006610751" value="1.22225" />
             </node>
           </node>
-          <node role="actualResult" roleId="4x8g.2760238001580348188" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="5806002142908469699">
-            <property name="value" nameId="tpee.1113006610751" value="61.112500000000004" />
+          <node role="actualResult" roleId="4x8g.2760238001580348188" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="6991865057875980935">
+            <property name="value" nameId="tpee.1113006610751" value="275.00625" />
           </node>
         </node>
         <node role="tests" roleId="4x8g.7691223970093132108" type="4x8g.FunctionUnitTest" typeId="4x8g.7691223970093132107" id="7691223970093212535">
-          <property name="isOk" nameId="4x8g.2760238001580465229" value="true" />
+          <property name="isOk" nameId="4x8g.2760238001580465229" value="false" />
           <node role="expectedResult" roleId="4x8g.7691223970093150957" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="5806002142908469681">
             <property name="value" nameId="tpee.1068580320021" value="245" />
           </node>
@@ -423,19 +423,9 @@
               <link role="symbol" roleId="4x8g.7691223970092863641" targetNodeId="7691223970093052457" resolveInfo="rho" />
             </node>
           </node>
-          <node role="actualResult" roleId="4x8g.2760238001580348188" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="5806002142908469700">
-            <property name="value" nameId="tpee.1113006610751" value="245.00000000000003" />
+          <node role="actualResult" roleId="4x8g.2760238001580348188" type="tpee.FloatingPointConstant" typeId="tpee.1111509017652" id="6991865057875980936">
+            <property name="value" nameId="tpee.1113006610751" value="490.00000000000006" />
           </node>
-        </node>
-      </node>
-      <node role="resultingUnit" roleId="4x8g.7203693294560809065" type="z9f3.CompositeUnitFraction" typeId="z9f3.7691223970093065135" id="5806002142908469701">
-        <node role="denominator" roleId="z9f3.7691223970093071642" type="z9f3.CompositeUnit" typeId="z9f3.7691223970093078820" id="5806002142908469702">
-          <node role="factors" roleId="z9f3.7691223970093078821" type="z9f3.Second" typeId="z9f3.7691223970093092086" id="5806002142908469703" />
-          <node role="factors" roleId="z9f3.7691223970093078821" type="z9f3.Second" typeId="z9f3.7691223970093092086" id="5806002142908469704" />
-          <node role="factors" roleId="z9f3.7691223970093078821" type="z9f3.Meter" typeId="z9f3.7691223970093064064" id="5806002142908469705" />
-        </node>
-        <node role="numerator" roleId="z9f3.7691223970093065136" type="z9f3.CompositeUnit" typeId="z9f3.7691223970093078820" id="5806002142908469706">
-          <node role="factors" roleId="z9f3.7691223970093078821" type="z9f3.KiloGramm" typeId="z9f3.7691223970093186920" id="5806002142908469707" />
         </node>
       </node>
       <node role="expr" roleId="4x8g.7691223970092833492" type="4x8g.FunctionSymbolExpressionWrapper" typeId="4x8g.7691223970093138525" id="5279185967172085106">
@@ -453,20 +443,31 @@
           </node>
         </node>
       </node>
+      <node role="resultingUnit" roleId="4x8g.7203693294560809065" type="z9f3.NoUnit" typeId="z9f3.7691223970093080897" id="6991865057875980937" />
     </node>
     <node role="contents" roleId="4x8g.7691223970092875241" type="4x8g.FunctionSymbol" typeId="4x8g.7691223970092833491" id="1608106685899436334">
       <property name="name" nameId="tpck.1169194664001" value="someFct" />
       <node role="expr" roleId="4x8g.7691223970092833492" type="4x8g.FunctionSymbolExpressionWrapper" typeId="4x8g.7691223970093138525" id="1608106685899436344">
-        <node role="expression" roleId="4x8g.7691223970093138526" type="tpee.MulExpression" typeId="tpee.1092119917967" id="1608106685899858505">
-          <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1608106685899898937">
-            <property name="value" nameId="tpee.1068580320021" value="17" />
-          </node>
-          <node role="leftExpression" roleId="tpee.1081773367580" type="39kg.DivExpressionFraction" typeId="39kg.1237100849157" id="1608106685899436351">
-            <node role="numerator" roleId="39kg.1237102925695" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1608106685899436354">
+        <node role="expression" roleId="4x8g.7691223970093138526" type="tpee.MulExpression" typeId="tpee.1092119917967" id="7720784317543719376">
+          <node role="rightExpression" roleId="tpee.1081773367579" type="39kg.DivExpressionFraction" typeId="39kg.1237100849157" id="7720784317544181068">
+            <node role="numerator" roleId="39kg.1237102925695" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="7720784317544290522">
               <property name="value" nameId="tpee.1068580320021" value="1" />
             </node>
-            <node role="denominator" roleId="39kg.1237102926618" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1608106685899436355">
+            <node role="denominator" roleId="39kg.1237102926618" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="7720784317544341223">
               <property name="value" nameId="tpee.1068580320021" value="2" />
+            </node>
+          </node>
+          <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.MulExpression" typeId="tpee.1092119917967" id="1608106685899858505">
+            <node role="leftExpression" roleId="tpee.1081773367580" type="39kg.DivExpressionFraction" typeId="39kg.1237100849157" id="1608106685899436351">
+              <node role="numerator" roleId="39kg.1237102925695" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1608106685899436354">
+                <property name="value" nameId="tpee.1068580320021" value="1" />
+              </node>
+              <node role="denominator" roleId="39kg.1237102926618" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1608106685899436355">
+                <property name="value" nameId="tpee.1068580320021" value="2" />
+              </node>
+            </node>
+            <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="1608106685899898937">
+              <property name="value" nameId="tpee.1068580320021" value="17" />
             </node>
           </node>
         </node>
@@ -608,17 +609,6 @@
       <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="3400456754308737238" />
       <node role="body" roleId="tpee.1068580123135" type="tpee.StatementList" typeId="tpee.1068580123136" id="3400456754308737239" />
     </node>
-    <node role="blockImportAnnotation$attribute" type="4x8g.BlockImport" typeId="4x8g.3006277004735736934" id="3006277004735758405">
-      <node role="blocks" roleId="4x8g.3006277004735758416" type="4x8g.BlockImportBlockRef" typeId="4x8g.3006277004735758408" id="3006277004735771061">
-        <link role="block" roleId="4x8g.3006277004735758409" targetNodeId="7691223970093052455" resolveInfo="Environment" />
-      </node>
-      <node role="blocks" roleId="4x8g.3006277004735758416" type="4x8g.BlockImportBlockRef" typeId="4x8g.3006277004735758408" id="3006277004735771063">
-        <link role="block" roleId="4x8g.3006277004735758409" targetNodeId="7691223970093052470" resolveInfo="Aircraft" />
-      </node>
-      <node role="blocks" roleId="4x8g.3006277004735758416" type="4x8g.BlockImportBlockRef" typeId="4x8g.3006277004735758408" id="3006277004735791268">
-        <link role="block" roleId="4x8g.3006277004735758409" targetNodeId="7691223970093052460" resolveInfo="Lift And Drag" />
-      </node>
-    </node>
     <node role="staticMethod" roleId="tpee.1070462273904" type="tpee.StaticMethodDeclaration" typeId="tpee.1081236700938" id="3006277004735896839">
       <property name="name" nameId="tpck.1169194664001" value="main" />
       <node role="parameter" roleId="tpee.1068580123134" type="tpee.ParameterDeclaration" typeId="tpee.1068498886292" id="3006277004735896840">
@@ -648,6 +638,17 @@
             </node>
           </node>
         </node>
+      </node>
+    </node>
+    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="4x8g.BlockImport" typeId="4x8g.3006277004735736934" id="9080520345268421075">
+      <node role="blocks" roleId="4x8g.3006277004735758416" type="4x8g.BlockImportBlockRef" typeId="4x8g.3006277004735758408" id="9080520345268421076">
+        <link role="block" roleId="4x8g.3006277004735758409" targetNodeId="7691223970093052455" resolveInfo="Environment" />
+      </node>
+      <node role="blocks" roleId="4x8g.3006277004735758416" type="4x8g.BlockImportBlockRef" typeId="4x8g.3006277004735758408" id="9080520345268421078">
+        <link role="block" roleId="4x8g.3006277004735758409" targetNodeId="7691223970093052470" resolveInfo="Aircraft" />
+      </node>
+      <node role="blocks" roleId="4x8g.3006277004735758416" type="4x8g.BlockImportBlockRef" typeId="4x8g.3006277004735758408" id="9080520345268421080">
+        <link role="block" roleId="4x8g.3006277004735758409" targetNodeId="7691223970093052460" resolveInfo="Lift And Drag" />
       </node>
     </node>
   </root>

@@ -235,9 +235,9 @@
                     <node role="parameter" roleId="tp25.1144104376918" type="tp25.OperationParm_Inclusion" typeId="tp25.1144100932627" id="3006277004735770582" />
                   </node>
                 </node>
-                <node role="operation" roleId="tpee.1197027833540" type="tp25.AttributeAccessOperation" typeId="tp25.1204761823073" id="3006277004735770583">
-                  <node role="attributeQualifier" roleId="tp25.1204762310079" type="tp25.NodeAttributeAccessQualifier" typeId="tp25.1204763358057" id="3006277004735770584">
-                    <link role="annotationLink" roleId="tp25.1204763443606" targetNodeId="4x8g.3006277004735736935" resolveInfo="blockImportAnnotation" />
+                <node role="operation" roleId="tpee.1197027833540" type="tp25.AttributeAccess" typeId="tp25.6407023681583031218" id="9080520345268394694">
+                  <node role="qualifier" roleId="tp25.6407023681583036852" type="tp25.NodeAttributeQualifier" typeId="tp25.6407023681583036853" id="9080520345268394698">
+                    <link role="attributeConcept" roleId="tp25.6407023681583036854" targetNodeId="4x8g.3006277004735736934" resolveInfo="BlockImport" />
                   </node>
                 </node>
               </node>
@@ -409,9 +409,9 @@
                     <node role="parameter" roleId="tp25.1144104376918" type="tp25.OperationParm_Inclusion" typeId="tp25.1144100932627" id="3006277004735790002" />
                   </node>
                 </node>
-                <node role="operation" roleId="tpee.1197027833540" type="tp25.AttributeAccessOperation" typeId="tp25.1204761823073" id="3006277004735790003">
-                  <node role="attributeQualifier" roleId="tp25.1204762310079" type="tp25.NodeAttributeAccessQualifier" typeId="tp25.1204763358057" id="3006277004735790004">
-                    <link role="annotationLink" roleId="tp25.1204763443606" targetNodeId="4x8g.3006277004735736935" resolveInfo="blockImportAnnotation" />
+                <node role="operation" roleId="tpee.1197027833540" type="tp25.AttributeAccess" typeId="tp25.6407023681583031218" id="9080520345268394687">
+                  <node role="qualifier" roleId="tp25.6407023681583036852" type="tp25.NodeAttributeQualifier" typeId="tp25.6407023681583036853" id="9080520345268394691">
+                    <link role="attributeConcept" roleId="tp25.6407023681583036854" targetNodeId="4x8g.3006277004735736934" resolveInfo="BlockImport" />
                   </node>
                 </node>
               </node>

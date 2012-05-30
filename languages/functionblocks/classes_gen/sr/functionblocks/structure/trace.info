@@ -56,7 +56,7 @@
     <unitInfo nodeId="2760238001580329470" fileName="ErrorMarker.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="sr.functionblocks.structure.ErrorMarker" />
   </root>
   <root nodeId="3006277004735736934">
-    <nodeInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="13" startPosition="46" endLine="14" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
+    <nodeInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="13" startPosition="48" endLine="14" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
     <nodeInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="14" startPosition="81" endLine="15" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="BLOCKS" />
     <nodeInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="17" startPosition="34" endLine="18" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
     <nodeInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="21" startPosition="33" endLine="22" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
@@ -91,18 +91,6 @@
     <scopeInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="40" startPosition="0" endLine="44" endPosition="0" />
     <scopeInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
     <unitInfo nodeId="3006277004735736934" fileName="BlockImport.java" startLine="13" startPosition="0" endLine="49" endPosition="0" unitName="sr.functionblocks.structure.BlockImport" />
-  </root>
-  <root nodeId="3006277004735736935">
-    <nodeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="7" startPosition="51" endLine="8" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="BLOCK_IMPORT_ANNOTATION" />
-    <nodeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="10" startPosition="88" endLine="11" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="14" startPosition="75" endLine="15" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="9" startPosition="0" endLine="13" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="setBlockImportAnnotation#(Ljetbrains/mps/lang/core/structure/BaseConcept;Ljetbrains/mps/lang/core/structure/BaseConcept;)V" />
-    <nodeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getBlockImportAnnotation#(Ljetbrains/mps/lang/core/structure/BaseConcept;)Ljetbrains/mps/lang/core/structure/BaseConcept;" />
-    <scopeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="10" startPosition="88" endLine="11" endPosition="94" />
-    <scopeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="14" startPosition="75" endLine="15" endPosition="107" />
-    <scopeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="9" startPosition="0" endLine="13" endPosition="0" />
-    <scopeInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="13" startPosition="0" endLine="17" endPosition="0" />
-    <unitInfo nodeId="3006277004735736935" fileName="BlockImportAnnotation_AnnotationLink.java" startLine="7" startPosition="0" endLine="18" endPosition="0" unitName="sr.functionblocks.structure.BlockImportAnnotation_AnnotationLink" />
   </root>
   <root nodeId="3006277004735758408">
     <nodeInfo nodeId="3006277004735758408" fileName="BlockImportBlockRef.java" startLine="11" startPosition="54" endLine="12" endPosition="89" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="concept" />
